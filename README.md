@@ -1,1 +1,713 @@
-# enhansome-decision-transformer
+# Awesome Decision Transformer with stars
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,180 | 🐛 100 | 📅 2026-06-30\
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
+![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
+[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE) ⭐ 915 | 🐛 2 | 📅 2026-05-21
+
+This is a collection of research papers for **Decision Transformer (DT)**.
+And the repository will be continuously updated to track the frontier of DT.
+
+Welcome to follow and star!
+
+## Table of Contents
+
+* [A Taxonomy of DT Algorithms](#a-taxonomy-of-decision-transformer-algorithms)
+* [Surveys](#surveys)
+* [Papers](#papers)
+
+  * [Arxiv](#arxiv)
+  * [ICML 2026](#icml-2026) (**<font color="red">New!!!</font>**)
+  * [ICLR 2026](#iclr-2026) (**<font color="red">New!!!</font>**)
+  * [NeurIPS 2025](#neurips-2025)
+  * [ICML 2025](#icml-2025)
+  * [ICLR 2025](#iclr-2025)
+  * [NeurIPS 2024](#neurips-2024)
+  * [IROS 2024](#iros-2024)
+  * [ICML 2024](#icml-2024)
+  * [ICLR 2024](#iclr-2024)
+  * [NeurIPS 2023](#neurips-2023)
+  * [CoRL 2023](#corl-2023)
+  * [IROS 2023](#iros-2023)
+  * [ICML 2023](#icml-2023)
+  * [ICRA 2023](#icra-2023)
+  * [ICLR 2023](#iclr-2023)
+  * [NeurIPS 2022](#neurips-2022)
+  * [CoRL 2022](#corl-2022)
+  * [ICML 2022](#icml-2022)
+  * [AAAI 2022](#aaai-2022)
+  * [ICLR 2022](#iclr-2022)
+  * [NeurIPS 2021](#neurips-2021)
+  * [ICML 2021](#icml-2021)
+* [Contributing](#contributing)
+
+## Overview of Transformer
+
+The Decision Transformer was proposed by “Decision Transformer: Reinforcement Learning via Sequence Modeling” by Chen L. et al. It casts (offline) Reinforcement Learning as a **conditional-sequence modeling** problem.
+
+![image info](./architecture.png)
+
+Specifically, DT model is a causal transformer model conditioned on the desired return, (past) states, and actions to generate future actions in an autoregressive manner.
+
+<div align=center>
+<img src=./dt-architecture.gif/>
+</div>
+
+### Advantage
+
+1. Bypass the need for bootstrapping for long term credit assignment
+2. Avoid undesirable short-sighted behaviors due to the discounting future rewards.
+3. Enjoy the transformer models widely used in language and vision, which are easy to scale and adapt to multi-modal data.
+
+## Surveys
+
+* [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/abstract/document/10546317)
+  * Shengchao Hu, Li Shen, Ya Zhang, Yixin Chen, Dacheng Tao
+  * Publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+* [Large sequence models for sequential decision-making: a survey](https://link.springer.com/article/10.1007/s11704-023-2689-5)
+  * Muning Wen, Runji Lin, Hanjing Wang, Yaodong Yang, Ying Wen, Luo Mai, Jun Wang, Haifeng Zhang, Weinan Zhang
+  * Publisher: Frontiers of Computer Science
+
+* [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044)
+  * Wenzhe Li, Hao Luo, Zichuan Lin, Chongjie Zhang, Zongqing Lu, Deheng Ye
+  * Publisher: Transactions on Machine Learning Research (TMLR)
+
+* [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)
+  * Pranav Agarwal, Aamer Abdul Rahman, Pierre-Luc St-Charles, Simon J.D. Prince, Samira Ebrahimi Kahou
+
+## Papers
+
+```
+format:
+- [title](paper link) [links]
+  - author1, author2, and author3...
+  - publisher
+  - key 
+  - code 
+  - experiment environment
+```
+
+### Arxiv
+
+* [Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing](https://arxiv.org/abs/2408.10517)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Wall Kim, Chaeyoung Song, Hanul Kim
+  * Key: DT, SSM, Mamba
+
+* [Context-Former: Stitching via Latent Conditioned Sequence Modeling ](https://browse.arxiv.org/abs/2401.16452)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Ziqi Zhang, Jingzehua Xu, Zifeng Zhuang, Jinxin Liu, Donglin wang
+  * Key: DT, Latent Conditioned Sequence Modeling
+
+* [Real-time Network Intrusion Detection via Decision Transformers](https://arxiv.org/abs/2312.07696)
+  * Jingdi Chen, Hanhan Zhou, Yongsheng Mei, Gina Adam, Nathaniel D. Bastian, Tian Lan
+  * Key: DT, Network Intrusion Detection
+  * ExpEnv: UNSW-NB15
+
+* [Prompt-Tuning Decision Transformer with Preference Ranking](https://arxiv.org/abs/2305.09648)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
+  * Key: Prompt-Tuning
+
+* [Graph Decision Transformer](https://arxiv.org/abs/2303.03747)
+  * ExpEnv: [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
+  * Key: graph transformer
+
+* [Can Offline Reinforcement Learning Help Natural Language Understanding?](https://arxiv.org/abs/2212.03864)
+  * Ziqi Zhang, Yile Wang, Yue Zhang, Donglin Wang
+  * Key: Language model
+  * ExpEnv: MuJoco, Maze 2D
+
+* [SaFormer: A Conditional Sequence Modeling Approach to Offline Safe Reinforcement Learning](https://arxiv.org/abs/2301.12203)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Qin Zhang, Linrui Zhang, Haoran Xu, Li Shen, Bowen Wang, Yongzhe Chang, Xueqian Wang, Bo Yuan, Dacheng Tao
+  * Key: Offline Safe RL, DT
+
+* [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845)
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,364 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * Code: [official](https://github.com/reinholdm/offline-pre-trained-multi-agent-decision-transformer) ⭐ 120 | 🐛 12 | 🌐 Python | 📅 2023-04-15
+  * Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, Bo Xu
+  * Key: Multi-Agent RL
+
+* [Transfer learning with causal counterfactual reasoning in Decision Transformers](https://arxiv.org/abs/2110.14355)
+  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,496 | 🐛 24 | 🌐 Python | 📅 2026-08-06
+  * Ayman Boustati, Hana Chockler, Daniel C. McNamee
+  * Key: Causal reasoning, Transfer Learning
+
+* [Pretraining for Language Conditioned Imitation with Transformers](https://openreview.net/forum?id=eCPCn25gat)
+  * Aaron L Putterman, Kevin Lu, Igor Mordatch, Pieter Abbeel
+  * Key: Text-Conditioned Decision
+  * ExpEnv: Text-Conditioned Frostbite (MultiModal Benchmark)
+
+* [An Offline Deep Reinforcement Learning for Maintenance Decision-Making](https://arxiv.org/abs/2109.15050)
+  * Hamed Khorasgani, Haiyan Wang, Chetan Gupta, Ahmed Farahat
+  * Publisher: Annual Conference of the PHM Society 2021
+  * Key:  Offline Supervised RL, Remaining Useful Life Estimation
+  * ExpEnv:  [NASA C-MAPSS](https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq)
+
+* [A Sequence Modelling Approach to Question Answering in Text-Based Games](https://aclanthology.org/2022.wordplay-1.4/)
+  * ExpEnv:  [QAIT](https://github.com/xingdi-eric-yuan/qait_public) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2019-09-03
+  * Gregory Furman, Edan Toledo, Jonathan Shock, Jan Buys
+  * Publisher: Proceedings of the 3rd Wordplay: When Language Meets Games Workshop (Wordplay 2022)
+  * Key: VQA
+
+* [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Code: [official](https://github.com/machelreid/can-wikipedia-help-offline-rl) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2022-07-18
+  * Machel Reid, Yutaro Yamada, Shixiang Shane Gu
+  * Key: VLN, Transfer Learning
+
+* [Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning](https://arxiv.org/abs/2203.07413)
+  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,496 | 🐛 24 | 🌐 Python | 📅 2026-08-06
+  * Qinjie Lin, Han Liu, Biswa Sengupta
+  * Key: Multi-Task RL, Sparse Reward
+
+* [Deep Transformer Q-Networks for Partially Observable Reinforcement Learning](https://arxiv.org/abs/2206.01078)
+  * ExpEnv: [GV](https://github.com/abaisero/gym-gridverse) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2024-10-02, [Car Flag](https://github.com/hai-h-nguyen/pomdp-domains) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-18
+  * Kevin Esslinger, Robert Platt, Christopher Amato
+  * Key: POMDP, Transformer Q-Learning
+
+* [SimStu-Transformer: A Transformer-Based Approach to Simulating Student Behaviour](https://link.springer.com/chapter/10.1007/978-3-031-11647-6_67)
+  * Zhaoxing Li, Lei Shi, Alexandra Cristea, Yunzhan Zhou, Chenghao Xiao, Ziqi Pan
+  * Key: Intelligent Tutoring System
+
+* [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1\&isAllowed=y)
+  * Carson Smith
+  * Key: Combinatorial Optimization
+
+### ICML 2026
+
+* [Decision Transformers As Zero-Shot Learners via Text-Behavior Alignment](https://icml.cc/virtual/2026/poster/62096)
+  * Xin Zhang, Jonathan Martinez, Yanhua Li, Yingxue Zhang
+  * Key: Decision Transformer, offline meta-RL, text conditioning, zero-shot
+  * ExpEnv: MetaWorld, MuJoCo
+
+* [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](https://arxiv.org/abs/2508.06336)
+  * Constantin Ruhdorfer, Matteo Bortoletto, Victor Oei, Anna Penzkofer, Andreas Bulling
+  * Key: Ad-hoc teamwork, In-context coordination, Multi-agent RL
+  * ExpEnv: LBF, Overcooked, OvercookedAI
+
+* [Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](https://icml.cc/virtual/2026/poster/61775)
+  * Fuyuan Qian, Menglong Zhang, Song Wang, Quanying Liu
+  * Key: Transformer World Model, Behavior-Invariant, Offline Meta-RL, Task Representation
+  * ExpEnv: offline meta-RL benchmarks
+
+* [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](https://icml.cc/virtual/2026/poster/65339)
+  * Yuheng Jing, Kai Li, Jiajun Zhang, Zeyao Ma, Jiaxi Yang, Lei Zhang, Zhe Wu, Jinmin He, Junliang Xing, Jian Cheng
+  * Key: In-Context RL, Ad-Hoc Teamwork, Benchmark, Multi-Agent
+  * ExpEnv: Overcooked-V2
+
+* [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://arxiv.org/abs/2604.25496)
+  * Nazim Bendib, Nicolas Perrin-Gilbert, Olivier Sigaud
+  * Key: Zero-Shot Offline RL, Behavioral Task Sampling, Meta-RL
+  * ExpEnv: offline meta-RL benchmarks
+
+* [QHyer: Q-conditioned Hybrid Attention-Mamba Transformer for Offline Goal-Conditioned RL](https://arxiv.org/abs/2605.01862)
+  * Xing Lei, Jincheng Wang, Xuetao Zhang, Donglin Wang
+  * Key: Decision Transformer, Q-Conditioned, Mamba, Offline Goal-Conditioned RL
+  * ExpEnv: offline goal-conditioned RL benchmarks
+
+* [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](https://icml.cc/virtual/2026/poster/62141)
+  * Yuxiao Yang, Weitong Zhang
+  * Key: Return-to-Go, Decision Transformer, Q-Guided Alignment, Offline RL
+  * ExpEnv: D4RL
+
+* [Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks](https://icml.cc/virtual/2026/poster/61251)
+  * Paulius Sasnauskas, Yiğit Yalın, Goran Radanovic
+  * Key: In-Context RL, Robustness, Reward Poisoning, Transformer
+  * ExpEnv: in-context RL benchmarks
+
+### ICLR 2026
+
+* [Vintix II: Decision Pre-Trained Transformer is a Scalable In-Context Reinforcement Learner](https://openreview.net/forum?id=t6roJiPN6Y)
+  * Andrei Polubarov, Nikita Lyubaykin, Alexander Derevyagin, Artyom Grishin, Igor Saprygin, Aleksandr Serkov, Mark Averchenko, Daniil Tikhonov, Maksim Zhdanov, Alexander Nikulin, Ilya Zisman, Albina Klepach, Alexey Zemtsov, Vladislav Kurenkov
+  * Key: In-Context RL, Decision-Pretrained Transformer, Algorithm Distillation, Flow Matching, Bayesian Posterior Sampling
+  * ExpEnv: multi-domain ICRL benchmarks
+
+* [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://openreview.net/forum?id=keCXNHOe4W)
+  * Kefan Song, Amir Moeini, Peng Wang, Lei Gong, Rohan Chandra, Shangtong Zhang, Yanjun Qi
+  * Key: In-Context RL, LLM, Test-Time Scaling, Scalar Feedback
+  * ExpEnv: LLM reasoning, creative, scientific tasks
+
+* [Scalable In-Context Q-Learning](https://openreview.net/forum?id=NuGAhTDYTd)
+  * Jinmei Liu, Fuhong Liu, Zhenhong Sun, Jianye Hao, Huaxiong Li, Bo Wang, Daoyi Dong, Chunlin Chen, Zhi Wang
+  * Key: In-Context RL, Q-Learning, Advantage-Weighted Regression, World Model, Transformer
+  * ExpEnv: ICRL benchmarks
+
+* [In-Context Learning for Pure Exploration](https://openreview.net/forum?id=NFCNFvDYfE)
+  * Alessio Russo, Ryan Welch, Aldo Pacchiano
+  * Key: Pure Exploration, Active Sequential Hypothesis Testing, In-Context Learning, Best-Arm Identification
+  * ExpEnv: best-arm identification, generalized search benchmarks
+
+* [Offline Reinforcement Learning with Adaptive Feature Fusion](https://openreview.net/forum?id=uD9UT0gHLH)
+  * Tieru Wang, Kunbao Wu, Guoshun Nan
+  * Key: Decision Transformer, Return-Conditioned Supervised Learning, Offline RL, Trajectory Stitching
+  * ExpEnv: D4RL
+
+* [Peak-Return Greedy Slicing: Subtrajectory Selection for Transformer-based Offline RL](https://openreview.net/forum?id=7vpehpWnnY)
+  * Zhiwei Xu, Miduo Cui, Dapeng Li, Zhihao Liu, Haifeng Zhang, Hangyu Mao, Guoliang Fan, Bin Zhang
+  * Key: Transformer-Based Offline RL, Subtrajectory Selection, Return-to-Go, Stitching
+  * ExpEnv: offline RL benchmarks
+
+* [TrojanTO: Action-Level Backdoor Attacks Against Trajectory Optimization Models](https://openreview.net/forum?id=CNrU5kGJYG)
+  * Yang Dai, Oubo Ma, Xingxing Liang, Longfei Zhang, Xiaochun Cao, Shouling Ji, Jiaheng Zhang, Jincai Huang, Li Shen
+  * Key: Decision Transformer, Backdoor Attacks, Offline RL, Trajectory Optimization
+  * ExpEnv: D4RL (DT/TT)
+
+* [GAS: Enhancing Reward-Cost Balance of Generative Model-assisted Offline Safe RL](https://openreview.net/forum?id=sGrrKMK0cn)
+  * Zifan Liu, Xinran Li, Shibo Chen, Jun Zhang
+  * Key: Offline Safe RL, Constrained Decision Transformer, Trajectory Stitching, Generative Models
+  * ExpEnv: offline safe RL
+
+### NeurIPS 2025
+
+* [Value-Guided Decision Transformer: A Unified Reinforcement Learning Framework for Online and Offline Settings](https://openreview.net/forum?id=Ogml5bxDH3)
+  * Hongling Zheng, Li Shen, Yong Luo, Deheng Ye, Shuhan Xu, Bo Du, Jialie Shen, Dacheng Tao
+  * Key: Offline RL, Conditional Sequence Modeling, Decision Transformer
+  * ExpEnv: Gym, Adroit, Kitchen, AntMaze, Maze2D
+
+* [Prompt Tuning Decision Transformers with Structured and Scalable Bandits](https://openreview.net/forum?id=yI55mj6anU)
+  * Finn Rietz, Oleg Smirnov, Sara Karimi, Lele Cao
+  * Key: Reinforcement Learning, Decision Transformer, Prompt tuning, Bandits, Multi-task transfer
+  * ExpEnv: D4RL
+
+* [Adaptable Safe Policy Learning from Multi-task Data with Constraint Prioritized Decision Transformer](https://openreview.net/forum?id=HmsEHahtGx)
+  * Ruiqi Xue, Ziqian Zhang, Lihe Li, Cong Guan, Lei Yuan, Yang Yu
+  * Key: Reinforcement Learning, Safe Reinforcement Learning, Offline Reinforcement Learning, Multi-task Reinforcement Learning
+  * ExpEnv: OSRL
+
+* [MOSDT: Self-Distillation-Based Decision Transformer for Multi-Agent Offline Safe Reinforcement Learning](https://openreview.net/forum?id=SYDmbsqHI0)
+  * Yuchen Xia, Yunjian Xu
+  * Key: Multi-Agent Reinforcement Learning, Safe Reinforcement Learning, Offline Reinforcement Learning, Decision Transformer
+  * ExpEnv: MOSDB
+
+### ICML 2025
+
+* [Decision Mixer: Integrating Long-term and Local Dependencies via Dynamic Token Selection for Decision-Making](https://openreview.net/pdf?id=4oE8vTw5IU)
+  * Hongling Zheng, Li Shen, Yong Luo, Deheng Ye, Bo Du, Jialie Shen, Dacheng Tao
+  * Key: Offline RL, Conditional Sequence Modeling, Decision Transformer, dynamic token selection, Reinforcement Learning.
+  * ExpEnv: D4RL (Gym, Adroit, Kitchen, AntMaze, Maze2D)
+
+* [Ad Hoc Teamwork via Offline Goal-Based Decision Transformers](https://openreview.net/pdf?id=tl3FlgWScA)
+  * Xinzhi Zhang, Hohei Chan, Deheng Ye, Yi Cai, Mengchen Zhao
+  * Key: Ad Hoc Teamwork, Offline RL, Multi-agent RL, Decision Transformer, Reinforcement Learning.
+  * ExpEnv: Predator-prey (PP), Level-Based Foraging (LBF), Overcooked
+
+* [Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning](https://openreview.net/pdf?id=G2PujeWPAL)
+  * Wenhao Zhao, Qiushui Xu, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
+  * Key: Decision Transformer, Offline RL, Pretrained Language Models (PLMs), Markov head, Reinforcement Learning.
+  * ExpEnv: MuJoCo, PointMaze
+
+* [Behavioral Exploration: Learning to Explore via In-Context Adaptation](https://openreview.net/pdf?id=tlLkY9E2bZ)
+  * Andrew Wagenmaker, Zhiyuan Zhou, Sergey Levine
+  * Key: in-context learning, exploration, behavior cloning, adaptive agents, Reinforcement Learning.
+  * ExpEnv: D4RL (Antmaze, Kitchen), simulated robotics, real-world robotics.
+
+### ICLR 2025
+
+* [Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making](https://openreview.net/forum?id=NHMuM84tRT)
+  * Jincheng Wang, Penny Karanasou, Pengyuan Wei, Elia Gatti, Diego Martinez Plasencia, Dimitrios Kanoulas
+  * Key: Deep Learning, Reinforcement Learning, Transformer, Decision Transformer, Long-Short Decision Transformer, OfflineRL
+  * ExpEnv: D4RL offline RL benchmark, Maze2d, Antmaze
+
+### NeurIPS 2024
+
+* [Adaptive Q-Aid for Conditional Supervised Learning in Offline Reinforcement Learning](https://arxiv.org/pdf/2402.02017)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, AntMaze, Adroit
+  * Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
+  * Keyword: Q-learning, DT
+
+* [Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement](https://arxiv.org/pdf/2410.11448)
+  * Zhi Wang, Li Zhang, Wenhao Wu, Yuanheng Zhu, Dongbin Zhao, Chunlin Chen
+  * Keyword: Offline Meta-Reinforcement Learning, Transformer, World Model Disentanglement
+  * ExpEnv: MuJoCo, Meta-World
+
+* [Decomposed Prompt Decision Transformer for Efficient Unseen Task Generalization](https://openreview.net/pdf?id=HcqnhqoXS3)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived
+  * Hongling Zheng, Li Shen, Yong Luo, Tongliang Liu, Jialie Shen, Dacheng Tao
+  * Publisher: NeurIPS 2024
+  * Key: Offline Reinforcement Learning, Prompt Tuning
+
+### IROS 2024
+
+* [Steering Decision Transformers via Temporal Difference Learning](https://cpsl.pratt.duke.edu/files/docs/d2t2.pdf)
+  * Hao-Lun Hsu, Alper Kamil Bozkurt, Juncheng Dong, Qitong Gao, Vahid Tarokh, Miroslav Pajic
+  * Publisher: IROS 2024
+  * Key: Robotics, offline reinforcement learning, sequence modeling
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
+
+### ICML 2024
+
+* [Generalization to New Sequential Decision Making Tasks with In-Context Learning](https://arxiv.org/abs/2312.03801)
+  * Sharath Chandra Raparthy, Eric Hambro, Robert Kirk, Mikael Henaff, Roberta Raileanu
+  * Publisher: ICML 2024
+  * Key: DT, In-Context Learning
+  * ExpEnv: [MiniHack](), [Procgen]()
+
+* [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,865 | 🐛 11 | 🌐 Python | 📅 2026-08-10
+  * Shengchao Hu, Ziqing Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
+  * Publisher: ICML 2024
+  * Key: Multi-task, DT
+
+* [Q-value Regularized Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.17098)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Shengchao Hu, Ziqing Fan, Chaoqin Huang, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
+  * Publisher: ICML 2024
+  * Key: Q-learning, DT
+
+* [Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning](https://arxiv.org/abs/2402.17217)
+  * ExpEnv: [DSRL](https://github.com/liuzuxin/DSRL) ⭐ 136 | 🐛 3 | 🌐 Python | 📅 2025-11-12
+  * Zijian Guo, Weichao Zhou, Wenchao Li
+  * Publisher: ICML 2024
+  * Key: Signal Temporal Logic (STL), DT
+
+* [Think Before You Act: Decision Transformers with Working Memory](https://openreview.net/forum?id=PSQ5Z920M8)
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,865 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
+  * Publisher: ICML 2024
+  * Key: Working Memory, DT
+
+* [In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought](https://arxiv.org/abs/2405.20692)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Sili Huang, Jifeng Hu, Hechang Chen, Lichao Sun, Bo Yang
+  * Publisher: ICML 2024
+  * Key: Hierarchical Structure, DT
+
+* [Rethinking Decision Transformer via Hierarchical Reinforcement Learning](https://arxiv.org/abs/2311.00267)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Yi Ma, Jianye Hao, Hebin Liang, Chenjun Xiao,
+  * Publisher: ICML 2024
+  * Key: DT, Hierarchical Reinforcement Learning
+
+### ICLR 2024
+
+* [Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,364 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
+  * Publisher: ICLR 2024
+  * Key: Communication, Sequence Modeling
+
+* [Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making ](https://arxiv.org/abs/2310.03022)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
+  * Key: MetaFormer, Decision ConvFormer
+
+* [When should we prefer Decision Transformers for Offline Reinforcement Learning?](https://openreview.net/pdf?id=vpV7fOFQy4)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Prajjwal Bhargava, Rohan Chitnis, Alborz Geramifard, Shagun Sodhani, Amy Zhang
+  * Key: offline reinforcement learning, sequence modeling, reinforcement learning
+
+* [Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining](https://openreview.net/pdf?id=yN4Wv17ss3)
+  * Licong Lin, Yu Bai, Song Mei
+  * Key: transformers, in-context learning, reinforcement learning, learning theory
+  * ExpEnv: [stochastic linear bandit]()
+
+* [Searching for High-Value Molecules Using Reinforcement Learning and Transformers](https://openreview.net/pdf?id=nqlymMx42E)
+  * Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
+  * Key: chemistry, reinforcement learning, language models
+  * ExpEnv: [docking and pytdc tasks]()
+
+### NeurIPS 2023
+
+* [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2303.03982)
+  * Bill Yuchen Lin, Yicheng Fu, Karina Yang, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Prithviraj Ammanabrolu, Yejin Choi, Xiang Ren
+  * Publisher: NeurIPS 2023
+  * Key: Dual-Process Theory
+  * ExpEnv: [ScienceWorld]()
+
+* [HIQL: Offline Goal-Conditioned RL with Latent States as Actions](https://arxiv.org/abs/2303.03982)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Seohong Park, Dibya Ghosh, Benjamin Eysenbach, Sergey Levine
+  * Publisher: NeurIPS 2023
+  * Key: Hierarchical Goal-Conditioned RL, Offline Reinforcement Learning, Value Function Estimation
+
+* [Structured state space models for in-context reinforcement learning](https://arxiv.org/abs/2303.03982)
+  * Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani
+  * Publisher: NeurIPS 2023
+  * Key: state space model, in-context RL
+  * ExpEnv: [t-maze]()
+
+* [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/abs/2306.14892)
+  * Jonathan N. Lee, Annie Xie, Aldo Pacchiano, Yash Chandak, Chelsea Finn, Ofir Nachum, Emma Brunskill
+  * Publisher: NeurIPS 2023
+  * Key: Decision Pretrained Transformer, in-context learning
+  * ExpEnv: [Dark Room]()
+
+* [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2312.04736)
+  * ExpEnv: [BabyAI](https://github.com/mila-iqia/babyai/tree/iclr19) ⭐ 766 | 🐛 14 | 🌐 Python | 📅 2023-10-01
+  * Sabrina McCallum, Max Taylor-Davies, Stefano V. Albrecht, Alessandro Suglia
+  * Publisher: NeurIPS 2023 Workshop
+  * Key: DT, language feedback
+
+* [STEVE-1: A Generative Model for Text-to-Behavior in Minecraft](https://arxiv.org/pdf/2306.00937)
+  * Shalev Lifshitz, Keiran Paster, Harris Chan, Jimmy Ba, Sheila McIlraith
+  * Publisher: NeurIPS 2023
+  * Key: instruction-tuned Video Pretraining
+  * ExpEnv: [Minecraft]()
+
+* [Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
+  * Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei
+  * Publisher: NeurIPS 2023
+  * Key: in-context learning, transformers, deep learning theory, learning theory
+  * ExpEnv: [in-context regression problems]()
+
+* [Elastic Decision Transformer](https://arxiv.org/abs/2307.02484)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Yueh-Hua Wu, Xiaolong Wang, Masashi Hamaya
+  * Publisher: NeurIPS 2023
+  * Key: Offline RL, stitch trajectory, Multi-Task
+
+* [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,865 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,666 | 🐛 123 | 🌐 Python | 📅 2026-08-06
+  * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
+  * Publisher: NeurIPS 2023 (Poster)
+  * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
+
+### CoRL 2023
+
+* [Transformers are Adaptable Task Planners](https://arxiv.org/abs/2207.02442)
+  * Vidhi Jain, Yixin Lin, Eric Undersander, Yonatan Bisk, Akshara Rai
+  * Publisher: CoRL 2023
+  * Key: Task Planning, Prompt, Control, Generalization
+  * Code: [official](https://anonymous.4open.science/r/temporal_task_planner-Paper148/README.md)
+  * ExpEnv: Dishwasher Loading
+
+* [Q-Transformer](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)
+  * Yevgen Chebotar, Quan Vuong, Alex Irpan, Karol Hausman, Fei Xia, Yao Lu, Aviral Kumar, Tianhe Yu, Alexander Herzog, Karl Pertsch, Keerthana Gopalakrishnan, Julian Ibarz, Ofir Nachum, Sumedh Sontakke, Grecia Salazar, Huong T Tran, Jodilyn Peralta, Clayton Tan, Deeksha Manjunath, Jaspiar Singht, Brianna Zitkovich, Tomas Jackson, Kanishka Rao, Chelsea Finn, Sergey Levine
+  * Publisher: CoRL 2023
+  * Key: Reinforcement Learning, Offline RL, Transformers, Q-Learning, Robotic Manipulation
+  * Code: [Unofficial](https://github.com/lucidrains/q-transformer) ⭐ 406 | 🐛 9 | 🌐 Python | 📅 2026-08-11
+  * ExpEnv: None
+
+### IROS 2023
+
+* [Hierarchical Decision Transformer](https://arxiv.org/abs/2209.10447)
+  * André Correia, Luís A. Alexandre
+  * Publisher: IROS 2023
+  * Key: Hierarchical Learning, Imitation Learning
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, RoboMimic, Maze 2D
+
+* [PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training](https://arxiv.org/abs/2209.11133)
+  * Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor
+  * Publisher: IROS 2023
+  * Key: Robotics, Pretrain, Multitask, Representation
+  * ExpEnv: MuSHR car, Habitat
+
+### ICML 2023
+
+* [Constrained Decision Transformer for Offline Safe Reinforcement Learning](https://proceedings.mlr.press/v202/liu23m.html)
+  * ExpEnv: [Bullet-Safety-Gym](https://github.com/SvenGronauer/Bullet-Safety-Gym) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2023-07-07
+  * Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, Ding Zhao
+  * Publisher: ICML 2023
+  * Key: Offline Safe RL, DT
+
+* [Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL](https://arxiv.org/abs/2209.03993)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Taku Yamagata, Ahmed Khalil, Raul Santos-Rodriguez
+  * Publisher: ICML 2023
+  * Key: Q-Learning
+
+### ICRA 2023
+
+* [LATTE: LAnguage Trajectory TransformEr](https://arxiv.org/abs/2208.02918)
+  * Arthur Bucker, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Sai Vemprala, Rogerio Bonatti
+  * Publisher: ICRA 2023
+  * Key: MultiModal,  Robotics
+  * Code: [official](https://github.com/arthurfenderbucker/latte-language-trajectory-transformer) ⭐ 42 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-08-31, [official](https://github.com/arthurfenderbucker/nl_trajectory_reshaper) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-12-14
+  * ExpEnv: [CoppeliaSim](https://www.coppeliarobotics.com/)
+
+### ICLR 2023
+
+* [In-context Reinforcement Learning with Algorithm Distillation](https://arxiv.org/abs/2210.14215)
+  * Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Stenberg Hansen, Angelos Filos, Ethan Brooks, maxime gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih
+  * Publisher: ICLR 2023
+  * Key: Reinforcement Learning, Transformers, Learning to Learn, Large Language Models
+  * ExpEnv: [Adversarial Bandit](), [Dark Room](), [Dark Key-to-Door](), [DMLab Watermaze]()
+
+* [EDGI: Equivariant Diffusion for Planning with Embodied Agents](https://arxiv.org/abs/2303.12410)
+  * Johann Brehmer, Joey Bose, Pim de Haan, Taco Cohen
+  * Publisher: ICLR 2023 Reincarnating RL workshop
+  * Key: rich geometric structure, equivariant, conditional generative modeling, representation
+  * ExpEnv: None
+
+* [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,865 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,666 | 🐛 123 | 🌐 Python | 📅 2026-08-06
+  * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
+  * Publisher: ICLR 2023 Reincarnating RL workshop
+  * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
+
+* [DeFog: Decision Transformer under Random Frame Dropping](https://arxiv.org/abs/2303.03391)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Code: [official](https://github.com/hukz18/DeFog) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-07-10
+  * Kaizhe Hu\*, Ray Chen Zheng\*, Yang Gao, Huazhe Xu
+  * Publisher: ICLR 2023
+  * Key: Offline RL, POMDP, Frame-Dropping, Practical Application
+
+### NeurIPS 2022
+
+* [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/abs/2206.01079)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * David Brandfonbrener, Alberto Bietti, Jacob Buckman, Romain Laroche, Joan Bruna
+  * Publisher: NeurIPS 2022
+  * Key: Theoretical analysis
+
+* [You Can't Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/abs/2205.15967)
+  * ExpEnv: Gambling, Connect Four, [2048](https://github.com/FelipeMarcelino/2048-Gym) ⭐ 88 | 🐛 4 | 🌐 Python | 📅 2022-11-21
+  * Keiran Paster, Sheila McIlraith, Jimmy Ba
+  * Publisher: NeurIPS 2022
+  * Key: Stochastic Environments
+
+* [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,364 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 374 | 🐛 6 | 🌐 Python | 📅 2023-03-16
+  * Muning Wen, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, Yaodong Yang
+  * Publisher: NeurIPS 2022
+  * Key: Multi-Agent RL
+
+* [Bootstrapped Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2206.08569)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Adroit](https://github.com/aravindr93/hand_dapg) ⭐ 325 | 🐛 7 | 🌐 Python | 📅 2023-04-09
+  * Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, Dongsheng Li
+  * Publisher: NeurIPS 2022
+  * Key:  Generation model
+  * Code: [official](https://seqml.github.io/bootorl)
+
+* [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241)
+  * ExpEnv: [Atari](https://github.com/openai/gym) ⚠️ Archived, [REM](https://github.com/google-research/batch_rl) ⚠️ Archived
+  * Kuang-Huei Lee, Ofir Nachum, Mengjiao Yang, Lisa Lee, Daniel Freeman, Winnie Xu, Sergio Guadarrama, Ian Fischer, Eric Jang, Henryk Michalewski, Igor Mordatch
+  * Publisher: NeurIPS 2022
+  * Key: Multi-Task,  Finetuning
+  * Code: [official](https://sites.google.com/view/multi-game-transformers)
+
+* [Decision making as language generation](https://openreview.net/pdf?id=N47cSU036T)
+  * Roland Memisevic, Sunny Panchal, Mingu Lee
+  * Publisher:  NeurIPS 2022 Workshop FMDM
+  * Key: Generation
+  * ExpEnv: Traversals (Toy experiment)
+
+### CoRL 2022
+
+* [Offline Reinforcement Learning for Customizable Visual Navigation](https://openreview.net/forum?id=uhIfIEIiWm_)
+  * Dhruv Shah, Arjun Bhorkar, Hrishit Leen, Ilya Kostrikov, Nicholas Rhinehart, Sergey Levine
+  * Publisher:  CoRL 2022 (Oral)
+  * Key: Visual Navigation
+  * ExpEnv: [RECON](https://sites.google.com/view/recon-robot/)
+
+* [Instruction-driven history-aware policies for robotic manipulations](https://arxiv.org/abs/2209.04899)
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,806 | 🐛 94 | 🌐 Python | 📅 2025-01-25
+  * Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid
+  * Publisher:  CoRL 2022 (Oral)
+  * Key: Robotics, Language Instruction
+  * Code: [official](https://guhur.github.io/hiveformer/)
+
+* [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,806 | 🐛 94 | 🌐 Python | 📅 2025-01-25
+  * Mohit Shridhar, Lucas Manuelli, Dieter Fox
+  * Publisher:  CoRL 2022
+  * Key: Robotics,  Language Grounding, Behavior Cloning
+  * Code: [official](https://guhur.github.io/hiveformer/)
+
+### ICML 2022
+
+* [Online Decision Transformer](https://arxiv.org/abs/2202.05607)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Code: [unofficial](https://github.com/daniellawson9999/online-decision-transformer) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2022-09-20
+  * Qinqing Zheng, Amy Zhang, Aditya Grover
+  * Publisher:  ICML 2022 (Oral)
+  * Key: Online finetuning,  Max-entropy, Exploration
+
+* [Prompting Decision Transformer for Few-Shot Policy Generalization](https://arxiv.org/abs/2206.13499)
+  * ExpEnv: [DMC](https://github.com/deepmind/dm_control) ⭐ 4,666 | 🐛 123 | 🌐 Python | 📅 2026-08-06
+  * Mengdi Xu, Yikang Shen, Shun Zhang, Yuchen Lu, Ding Zhao, Joshua B. Tenenbaum, Chuang Gan
+  * Publisher:  ICML 2022 (Poster)
+  * Key: Prompt, Few-shot, Generalization
+  * Code: [official](https://mxu34.github.io/PromptDT/) (released soon)
+
+* [Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning](https://proceedings.mlr.press/v162/villaflor22a.html)
+  * Adam R Villaflor, Zhe Huang, Swapnil Pande, John M Dolan, Jeff Schneider
+  * Publisher:  ICML 2022 (Poster)
+  * Key: World model
+  * Code: [official](https://mxu34.github.io/PromptDT/) (released soon)
+  * ExpEnv: [CARLA](https://leaderboard.carla.org/)
+
+* [AnyMorph: Learning Transferable Polices By Inferring Agent Morphology](https://arxiv.org/abs/2206.12279)
+  * ExpEnv: [Modular-RL](https://github.com/huangwl18/modular-rl) ⭐ 235 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2022-12-27
+  * Brandon Trabucco, Mariano Phielipp, Glen Berseth
+  * Publisher: ICML 2022 (Poster)
+  * Key: Morphology, Transfer Learning, Zero Shot
+
+### AAAI 2022
+
+* [Dreaming with Transformers](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)
+  * Catherine Zeng, Jordan Docter, Alexander Amini, Igor Gilitschenski, Ramin Hasani, Daniela Rus
+  * Publisher: AAAI 2022 (RLG Workshop)
+  * Key: Dreamer, World Model
+  * ExpEnv: [Deepmind Lab](https://github.com/deepmind/lab) ⭐ 7,371 | 🐛 66 | 🌐 C | 📅 2023-01-04, [VISTA](https://github.com/vista-simulator/vista) ⭐ 410 | 🐛 18 | 🌐 Python | 📅 2023-11-20
+
+### ICLR 2022
+
+* [Learning Transferable Policies By Inferring Agent Morphology](https://openreview.net/forum?id=HE3NA4aNJbq)
+  * ExpEnv: [Modular-RL](https://github.com/huangwl18/modular-rl) ⭐ 235 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2022-12-27
+  * Brandon Trabucco, Mariano Phielipp, Glen Berseth
+  * Publisher: ICLR 2022 (GPL Workshop Poster)
+  * Key: Morphology, Transfer Learning, Zero Shot
+
+* [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,220 | 🐛 134 | 🌐 Python | 📅 2026-08-04
+  * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
+  * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
+  * Publisher: ICLR 2022 (GPL Workshop Poster)
+  * Key: Object Manipulation
+
+* [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Code: [official](https://github.com/frt03/generalized_dt) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2022-08-08
+  * Hiroki Furuta, Yutaka Matsuo, Shixiang Shane Gu
+  * Publisher: ICLR 2021 (Spotlight)
+  * Key: HIM, SMM
+
+### NeurIPS 2021
+
+* [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
+
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Code: [official](https://github.com/kzl/decision-transformer) ⭐ 2,827 | 🐛 36 | 🌐 Python | 📅 2024-04-29, [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py) ⭐ 3,639 | 🐛 27 | 🌐 Python | 📅 2025-12-07
+  * Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch
+  * Publisher: NeurIPS 2021 (Poster)
+  * Key: Conditional sequence modeling
+
+* [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Code: [official](https://github.com/JannerM/trajectory-transformer) ⭐ 536 | 🐛 8 | 🌐 Python | 📅 2022-10-06
+  * Michael Janner, Qiyang Li, Sergey Levine
+  * Publisher: NeurIPS 2021 (Spotlight)
+  * Key: Conditional sequence modeling, Discretization
+
+* [TransDreamer: Reinforcement Learning with Transformer World Models](https://arxiv.org/abs/2202.09481)
+  * ExpEnv: Hidden Order Discovery, [DMC](https://github.com/deepmind/dm_control) ⭐ 4,666 | 🐛 123 | 🌐 Python | 📅 2026-08-06, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * Chang Chen, Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn
+  * Publisher: NeurIPS 2021 (Deep RL Workshop)
+  * Key: Dreamer, World Model
+
+### ICML 2021
+
+* [Reinforcement learning as one big sequence modeling problem](https://arxiv.org/abs/2106.02039v1)
+  * Michael Janner, Qiyang Li, Sergey Levine
+  * Publisher: ICML workshop
+  * Key: Conditional sequence modeling, Discretization
+  * Code: [official](https://github.com/JannerM/trajectory-transformer) ⭐ 536 | 🐛 8 | 🌐 Python | 📅 2022-10-06
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+
+## Contributing
+
+Our purpose is to make this repo even better. If you are interested in contributing, please refer to [HERE](CONTRIBUTING.md) for instructions in contribution.
+
+## License
+
+Awesome Decision Transformer is released under the Apache 2.0 license.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
