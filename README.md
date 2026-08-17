@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,308 | 🐛 100 | 📅 2026-06-30\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,734 | 🐛 100 | 📅 2026-06-30\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -92,12 +92,12 @@ format:
 ### Arxiv
 
 * [Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing](https://arxiv.org/abs/2408.10517)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Wall Kim, Chaeyoung Song, Hanul Kim
   * Key: DT, SSM, Mamba
 
 * [Context-Former: Stitching via Latent Conditioned Sequence Modeling ](https://browse.arxiv.org/abs/2401.16452)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Ziqi Zhang, Jingzehua Xu, Zifeng Zhuang, Jinxin Liu, Donglin wang
   * Key: DT, Latent Conditioned Sequence Modeling
 
@@ -107,7 +107,7 @@ format:
   * ExpEnv: UNSW-NB15
 
 * [Prompt-Tuning Decision Transformer with Preference Ranking](https://arxiv.org/abs/2305.09648)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
   * Key: Prompt-Tuning
 
@@ -122,7 +122,7 @@ format:
   * ExpEnv: MuJoco, Maze 2D
 
 * [SaFormer: A Conditional Sequence Modeling Approach to Offline Safe Reinforcement Learning](https://arxiv.org/abs/2301.12203)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Qin Zhang, Linrui Zhang, Haoran Xu, Li Shen, Bowen Wang, Yongzhe Chang, Xueqian Wang, Bo Yuan, Dacheng Tao
   * Key: Offline Safe RL, DT
 
@@ -155,7 +155,7 @@ format:
   * Key: VQA
 
 * [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Code: [official](https://github.com/machelreid/can-wikipedia-help-offline-rl) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2022-07-18
   * Machel Reid, Yutaro Yamada, Shixiang Shane Gu
   * Key: VLN, Transfer Learning
@@ -337,7 +337,7 @@ format:
   * Hao-Lun Hsu, Alper Kamil Bozkurt, Juncheng Dong, Qitong Gao, Vahid Tarokh, Miroslav Pajic
   * Publisher: IROS 2024
   * Key: Robotics, offline reinforcement learning, sequence modeling
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
 
 ### ICML 2024
 
@@ -348,13 +348,13 @@ format:
   * ExpEnv: [MiniHack](), [Procgen]()
 
 * [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,866 | 🐛 11 | 🌐 Python | 📅 2026-08-10
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,868 | 🐛 11 | 🌐 Python | 📅 2026-08-10
   * Shengchao Hu, Ziqing Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
   * Publisher: ICML 2024
   * Key: Multi-task, DT
 
 * [Q-value Regularized Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.17098)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Shengchao Hu, Ziqing Fan, Chaoqin Huang, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
   * Publisher: ICML 2024
   * Key: Q-learning, DT
@@ -366,19 +366,19 @@ format:
   * Key: Signal Temporal Logic (STL), DT
 
 * [Think Before You Act: Decision Transformers with Working Memory](https://openreview.net/forum?id=PSQ5Z920M8)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,866 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,868 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
   * Publisher: ICML 2024
   * Key: Working Memory, DT
 
 * [In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought](https://arxiv.org/abs/2405.20692)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Sili Huang, Jifeng Hu, Hechang Chen, Lichao Sun, Bo Yang
   * Publisher: ICML 2024
   * Key: Hierarchical Structure, DT
 
 * [Rethinking Decision Transformer via Hierarchical Reinforcement Learning](https://arxiv.org/abs/2311.00267)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Yi Ma, Jianye Hao, Hebin Liang, Chenjun Xiao,
   * Publisher: ICML 2024
   * Key: DT, Hierarchical Reinforcement Learning
@@ -392,12 +392,12 @@ format:
   * Key: Communication, Sequence Modeling
 
 * [Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making ](https://arxiv.org/abs/2310.03022)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
   * Key: MetaFormer, Decision ConvFormer
 
 * [When should we prefer Decision Transformers for Offline Reinforcement Learning?](https://openreview.net/pdf?id=vpV7fOFQy4)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Prajjwal Bhargava, Rohan Chitnis, Alborz Geramifard, Shagun Sodhani, Amy Zhang
   * Key: offline reinforcement learning, sequence modeling, reinforcement learning
 
@@ -420,7 +420,7 @@ format:
   * ExpEnv: [ScienceWorld]()
 
 * [HIQL: Offline Goal-Conditioned RL with Latent States as Actions](https://arxiv.org/abs/2303.03982)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Seohong Park, Dibya Ghosh, Benjamin Eysenbach, Sergey Levine
   * Publisher: NeurIPS 2023
   * Key: Hierarchical Goal-Conditioned RL, Offline Reinforcement Learning, Value Function Estimation
@@ -456,13 +456,13 @@ format:
   * ExpEnv: [in-context regression problems]()
 
 * [Elastic Decision Transformer](https://arxiv.org/abs/2307.02484)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Yueh-Hua Wu, Xiaolong Wang, Masashi Hamaya
   * Publisher: NeurIPS 2023
   * Key: Offline RL, stitch trajectory, Multi-Task
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,866 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,666 | 🐛 127 | 🌐 Python | 📅 2026-08-06
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,868 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,664 | 🐛 127 | 🌐 Python | 📅 2026-08-06
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: NeurIPS 2023 (Poster)
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -489,7 +489,7 @@ format:
   * André Correia, Luís A. Alexandre
   * Publisher: IROS 2023
   * Key: Hierarchical Learning, Imitation Learning
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, RoboMimic, Maze 2D
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, RoboMimic, Maze 2D
 
 * [PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training](https://arxiv.org/abs/2209.11133)
   * Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor
@@ -506,7 +506,7 @@ format:
   * Key: Offline Safe RL, DT
 
 * [Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL](https://arxiv.org/abs/2209.03993)
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Taku Yamagata, Ahmed Khalil, Raul Santos-Rodriguez
   * Publisher: ICML 2023
   * Key: Q-Learning
@@ -535,13 +535,13 @@ format:
   * ExpEnv: None
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,866 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,666 | 🐛 127 | 🌐 Python | 📅 2026-08-06
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,868 | 🐛 11 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,664 | 🐛 127 | 🌐 Python | 📅 2026-08-06
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: ICLR 2023 Reincarnating RL workshop
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
 
 * [DeFog: Decision Transformer under Random Frame Dropping](https://arxiv.org/abs/2303.03391)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Code: [official](https://github.com/hukz18/DeFog) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-07-10
   * Kaizhe Hu\*, Ray Chen Zheng\*, Yang Gao, Huazhe Xu
   * Publisher: ICLR 2023
@@ -550,7 +550,7 @@ format:
 ### NeurIPS 2022
 
 * [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/abs/2206.01079)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * David Brandfonbrener, Alberto Bietti, Jacob Buckman, Romain Laroche, Joan Bruna
   * Publisher: NeurIPS 2022
   * Key: Theoretical analysis
@@ -568,7 +568,7 @@ format:
   * Key: Multi-Agent RL
 
 * [Bootstrapped Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2206.08569)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Adroit](https://github.com/aravindr93/hand_dapg) ⭐ 325 | 🐛 7 | 🌐 Python | 📅 2023-04-09
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Adroit](https://github.com/aravindr93/hand_dapg) ⭐ 325 | 🐛 7 | 🌐 Python | 📅 2023-04-09
   * Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, Dongsheng Li
   * Publisher: NeurIPS 2022
   * Key:  Generation model
@@ -612,14 +612,14 @@ format:
 ### ICML 2022
 
 * [Online Decision Transformer](https://arxiv.org/abs/2202.05607)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Code: [unofficial](https://github.com/daniellawson9999/online-decision-transformer) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2022-09-20
   * Qinqing Zheng, Amy Zhang, Aditya Grover
   * Publisher:  ICML 2022 (Oral)
   * Key: Online finetuning,  Max-entropy, Exploration
 
 * [Prompting Decision Transformer for Few-Shot Policy Generalization](https://arxiv.org/abs/2206.13499)
-  * ExpEnv: [DMC](https://github.com/deepmind/dm_control) ⭐ 4,666 | 🐛 127 | 🌐 Python | 📅 2026-08-06
+  * ExpEnv: [DMC](https://github.com/deepmind/dm_control) ⭐ 4,664 | 🐛 127 | 🌐 Python | 📅 2026-08-06
   * Mengdi Xu, Yikang Shen, Shun Zhang, Yuchen Lu, Ding Zhao, Joshua B. Tenenbaum, Chuang Gan
   * Publisher:  ICML 2022 (Poster)
   * Key: Prompt, Few-shot, Generalization
@@ -655,14 +655,14 @@ format:
   * Key: Morphology, Transfer Learning, Zero Shot
 
 * [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
-  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,228 | 🐛 134 | 🌐 Python | 📅 2026-08-04
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,231 | 🐛 134 | 🌐 Python | 📅 2026-08-04
   * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
   * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
   * Publisher: ICLR 2022 (GPL Workshop Poster)
   * Key: Object Manipulation
 
 * [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Code: [official](https://github.com/frt03/generalized_dt) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2022-08-08
   * Hiroki Furuta, Yutaka Matsuo, Shixiang Shane Gu
   * Publisher: ICLR 2021 (Spotlight)
@@ -672,21 +672,21 @@ format:
 
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
 
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Code: [official](https://github.com/kzl/decision-transformer) ⭐ 2,829 | 🐛 36 | 🌐 Python | 📅 2024-04-29, [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py) ⭐ 3,637 | 🐛 27 | 🌐 Python | 📅 2025-12-07
   * Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch
   * Publisher: NeurIPS 2021 (Poster)
   * Key: Conditional sequence modeling
 
 * [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Code: [official](https://github.com/JannerM/trajectory-transformer) ⭐ 536 | 🐛 8 | 🌐 Python | 📅 2022-10-06
   * Michael Janner, Qiyang Li, Sergey Levine
   * Publisher: NeurIPS 2021 (Spotlight)
   * Key: Conditional sequence modeling, Discretization
 
 * [TransDreamer: Reinforcement Learning with Transformer World Models](https://arxiv.org/abs/2202.09481)
-  * ExpEnv: Hidden Order Discovery, [DMC](https://github.com/deepmind/dm_control) ⭐ 4,666 | 🐛 127 | 🌐 Python | 📅 2026-08-06, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: Hidden Order Discovery, [DMC](https://github.com/deepmind/dm_control) ⭐ 4,664 | 🐛 127 | 🌐 Python | 📅 2026-08-06, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Chang Chen, Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn
   * Publisher: NeurIPS 2021 (Deep RL Workshop)
   * Key: Dreamer, World Model
@@ -698,7 +698,7 @@ format:
   * Publisher: ICML workshop
   * Key: Conditional sequence modeling, Discretization
   * Code: [official](https://github.com/JannerM/trajectory-transformer) ⭐ 536 | 🐛 8 | 🌐 Python | 📅 2022-10-06
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,698 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,699 | 🐛 107 | 🌐 Python | 📅 2024-11-18
 
 ## Contributing
 
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

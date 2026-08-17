@@ -29,7 +29,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -50,7 +50,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -71,7 +71,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -92,7 +92,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37239
+                "stars": 37238
               }
             }
           ]
@@ -113,7 +113,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -342,7 +342,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1866
+                "stars": 1868
               }
             }
           ]
@@ -363,7 +363,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -405,7 +405,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1866
+                "stars": 1868
               }
             }
           ]
@@ -426,7 +426,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -447,7 +447,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -495,7 +495,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -516,7 +516,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -543,7 +543,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -585,7 +585,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -606,7 +606,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1866
+                "stars": 1868
               }
             }
           ]
@@ -654,7 +654,7 @@
                 "last_commit": "2024-11-18T16:40:39Z",
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1698
+                "stars": 1699
               }
             }
           ]
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1866
+                "stars": 1868
               }
             }
           ]
@@ -827,7 +827,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37239
+                "stars": 37238
               }
             }
           ]
@@ -937,7 +937,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4666
+                "stars": 4664
               }
             }
           ]
@@ -1006,7 +1006,7 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3228
+                "stars": 3231
               }
             },
             {
@@ -1152,7 +1152,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4666
+                "stars": 4664
               }
             }
           ]
@@ -1172,7 +1172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:52:41.912Z",
+    "last_updated": "2026-08-17T10:05:54.819Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
     "enhanced_repository": "enhansome/enhansome-decision-transformer",
