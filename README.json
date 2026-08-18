@@ -342,7 +342,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1868
+                "stars": 1867
               }
             }
           ]
@@ -405,7 +405,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1868
+                "stars": 1867
               }
             }
           ]
@@ -606,7 +606,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1868
+                "stars": 1867
               }
             }
           ]
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-10T03:57:49Z",
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1868
+                "stars": 1867
               }
             }
           ]
@@ -937,7 +937,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4664
+                "stars": 4666
               }
             }
           ]
@@ -1006,7 +1006,7 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3231
+                "stars": 3237
               }
             },
             {
@@ -1152,7 +1152,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4664
+                "stars": 4666
               }
             }
           ]
@@ -1172,7 +1172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:05:54.819Z",
+    "last_updated": "2026-08-18T09:59:11.360Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
     "enhanced_repository": "enhansome/enhansome-decision-transformer",
