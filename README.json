@@ -1,1178 +1,1230 @@
 {
   "items": [
     {
-      "description": "The Decision Transformer was proposed by “Decision Transformer: Reinforcement Learning via Sequence Modeling” by Chen L. et al. It casts (offline) Reinforcement Learning as a conditional-sequence modeling problem.\n\nSpecifically, DT model is a causal transformer model conditioned on the desired return, (past) states, and actions to generate future actions in an autoregressive manner.",
-      "items": [],
-      "title": "Overview of Transformer"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Context-Former: Stitching via Latent Conditioned Sequence Modeling",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Prompt-Tuning Decision Transformer with Preference Ranking",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Graph Decision Transformer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37240
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SaFormer: A Conditional Sequence Modeling Approach to Offline Safe Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: SMAC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164697388,
+                    "language": "Python",
+                    "last_commit": "2024-02-18T19:49:08Z",
+                    "owner": "oxwhirl",
+                    "repo": "smac",
+                    "stars": 1364
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 435781649,
+                    "language": "Python",
+                    "last_commit": "2023-04-15T14:35:53Z",
+                    "owner": "ReinholdM",
+                    "repo": "Offline-Pre-trained-Multi-Agent-Decision-Transformer",
+                    "stars": 120
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Transfer learning with causal counterfactual reasoning in Decision Transformers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MINIGRID",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "A Sequence Modelling Approach to Question Answering in Text-Based Games",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: QAIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203653776,
+                    "language": "Python",
+                    "last_commit": "2019-09-03T03:43:46Z",
+                    "owner": "xingdi-eric-yuan",
+                    "repo": "qait_public",
+                    "stars": 44
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Can Wikipedia Help Offline Reinforcement Learning?",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL, Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 452973227,
+                    "language": "Python",
+                    "last_commit": "2022-07-18T07:55:39Z",
+                    "owner": "machelreid",
+                    "repo": "can-wikipedia-help-offline-rl",
+                    "stars": 105
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MINIGRID",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Deep Transformer Q-Networks for Partially Observable Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: GV",
+                  "description": ", Car Flag",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 280717927,
+                    "language": "Python",
+                    "last_commit": "2024-10-02T21:37:17Z",
+                    "owner": "abaisero",
+                    "repo": "gym-gridverse",
+                    "stars": 29
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Arxiv"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Adaptive Q-Aid for Conditional Supervised Learning in Offline Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", AntMaze, Adroit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Decomposed Prompt Decision Transformer for Efficient Unseen Task Generalization",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MetaWorld",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207383121,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T03:57:49Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Metaworld",
+                    "stars": 1868
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Q-value Regularized Transformer for Offline Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: DSRL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 649878393,
+                    "language": "Python",
+                    "last_commit": "2025-11-12T20:27:20Z",
+                    "owner": "liuzuxin",
+                    "repo": "DSRL",
+                    "stars": 136
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Think Before You Act: Decision Transformers with Working Memory",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MetaWorld",
+                  "description": ", Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207383121,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T03:57:49Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Metaworld",
+                    "stars": 1868
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Rethinking Decision Transformer via Hierarchical Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Learning Multi-Agent Communication from Graph Modeling Perspective",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: SMAC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164697388,
+                    "language": "Python",
+                    "last_commit": "2024-02-18T19:49:08Z",
+                    "owner": "oxwhirl",
+                    "repo": "smac",
+                    "stars": 1364
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": ", Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "When should we prefer Decision Transformers for Offline Reinforcement Learning?",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICLR 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "HIQL: Offline Goal-Conditioned RL with Latent States as Actions",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: BabyAI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151299234,
+                    "language": "Python",
+                    "last_commit": "2023-10-01T01:53:59Z",
+                    "owner": "mila-iqia",
+                    "repo": "babyai",
+                    "stars": 765
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Elastic Decision Transformer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Learning to Modulate pre-trained Models in RL",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MetaWorld",
+                  "description": ", DMControl",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207383121,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T03:57:49Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Metaworld",
+                    "stars": 1868
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Constrained Decision Transformer for Offline Safe Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Bullet-Safety-Gym",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 343567536,
+                    "language": "Python",
+                    "last_commit": "2023-07-07T10:10:40Z",
+                    "owner": "SvenGronauer",
+                    "repo": "Bullet-Safety-Gym",
+                    "stars": 70
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1699
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Learning to Modulate pre-trained Models in RL",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MetaWorld",
+                  "description": ", DMControl",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207383121,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T03:57:49Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Metaworld",
+                    "stars": 1868
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DeFog: Decision Transformer under Random Frame Dropping",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL, Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 664615578,
+                    "language": "Python",
+                    "last_commit": "2023-07-10T11:19:45Z",
+                    "owner": "hukz18",
+                    "repo": "DeFog",
+                    "stars": 9
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICLR 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "When does return-conditioned supervised learning work for offline reinforcement learning?",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "You Can't Count on Luck: Why Decision Transformers Fail in Stochastic Environments",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Gambling, Connect Four, 2048",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249430981,
+                    "language": "Python",
+                    "last_commit": "2022-11-21T21:51:14Z",
+                    "owner": "FelipeMarcelino",
+                    "repo": "2048-Gym",
+                    "stars": 88
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: SMAC",
+                  "description": ", MA MuJoco",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164697388,
+                    "language": "Python",
+                    "last_commit": "2024-02-18T19:49:08Z",
+                    "owner": "oxwhirl",
+                    "repo": "smac",
+                    "stars": 1364
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Bootstrapped Transformer for Offline Reinforcement Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL, Adroit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Multi-Game Decision Transformers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": ", REM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37240
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Instruction-driven history-aware policies for robotic manipulations",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: RLBench",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 211181267,
+                    "language": "Python",
+                    "last_commit": "2025-01-25T13:13:19Z",
+                    "owner": "stepjam",
+                    "repo": "RLBench",
+                    "stars": 1809
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: RLBench",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 211181267,
+                    "language": "Python",
+                    "last_commit": "2025-01-25T13:13:19Z",
+                    "owner": "stepjam",
+                    "repo": "RLBench",
+                    "stars": 1809
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CoRL 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Online Decision Transformer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: unofficial",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 513654387,
+                    "language": "Python",
+                    "last_commit": "2022-09-20T19:11:26Z",
+                    "owner": "daniellawson9999",
+                    "repo": "online-decision-transformer",
+                    "stars": 41
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Prompting Decision Transformer for Few-Shot Policy Generalization",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: DMC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115744122,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:15:16Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_control",
+                    "stars": 4668
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "AnyMorph: Learning Transferable Polices By Inferring Agent Morphology",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Modular-RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278438798,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-12-27T15:36:25Z",
+                    "owner": "huangwl18",
+                    "repo": "modular-rl",
+                    "stars": 235
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Learning Transferable Policies By Inferring Agent Morphology",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Modular-RL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278438798,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-12-27T15:36:25Z",
+                    "owner": "huangwl18",
+                    "repo": "modular-rl",
+                    "stars": 235
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: ManiSkill",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520357130,
+                    "language": "Python",
+                    "last_commit": "2026-08-04T16:38:18Z",
+                    "owner": "mani-skill",
+                    "repo": "ManiSkill",
+                    "stars": 3240
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 449323826,
+                    "language": "Python",
+                    "last_commit": "2022-01-19T09:36:46Z",
+                    "owner": "caiqi",
+                    "repo": "Silver-Bullet-3D",
+                    "stars": 20
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Generalized Decision Transformer for Offline Hindsight Information Matching",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 430981441,
+                    "language": "Python",
+                    "last_commit": "2022-08-08T22:14:47Z",
+                    "owner": "frt03",
+                    "repo": "generalized_dt",
+                    "stars": 70
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICLR 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL, Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": ", DI-engine",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373111497,
+                    "language": "Python",
+                    "last_commit": "2024-04-29T01:30:45Z",
+                    "owner": "kzl",
+                    "repo": "decision-transformer",
+                    "stars": 2829
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Offline Reinforcement Learning as One Big Sequence Modeling Problem",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403191132,
+                    "language": "Python",
+                    "last_commit": "2022-10-06T19:08:06Z",
+                    "owner": "jannerm",
+                    "repo": "trajectory-transformer",
+                    "stars": 536
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "TransDreamer: Reinforcement Learning with Transformer World Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Hidden Order Discovery, DMC",
+                  "description": ", Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115744122,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:15:16Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_control",
+                    "stars": 4668
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2021"
+        }
+      ],
       "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Context-Former: Stitching via Latent Conditioned Sequence Modeling",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Prompt-Tuning Decision Transformer with Preference Ranking",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Graph Decision Transformer",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Atari",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37238
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SaFormer: A Conditional Sequence Modeling Approach to Offline Safe Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: SMAC",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-02-18T19:49:08Z",
-                "owner": "oxwhirl",
-                "repo": "smac",
-                "stars": 1364
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-04-15T14:35:53Z",
-                "owner": "ReinholdM",
-                "repo": "Offline-Pre-trained-Multi-Agent-Decision-Transformer",
-                "stars": 120
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Transfer learning with causal counterfactual reasoning in Decision Transformers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MINIGRID",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T05:37:37Z",
-                "owner": "Farama-Foundation",
-                "repo": "Minigrid",
-                "stars": 2497
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "A Sequence Modelling Approach to Question Answering in Text-Based Games",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: QAIT",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2019-09-03T03:43:46Z",
-                "owner": "xingdi-eric-yuan",
-                "repo": "qait_public",
-                "stars": 44
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Can Wikipedia Help Offline Reinforcement Learning?",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL, Atari",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-07-18T07:55:39Z",
-                "owner": "machelreid",
-                "repo": "can-wikipedia-help-offline-rl",
-                "stars": 105
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MINIGRID",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T05:37:37Z",
-                "owner": "Farama-Foundation",
-                "repo": "Minigrid",
-                "stars": 2497
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Deep Transformer Q-Networks for Partially Observable Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: GV",
-              "description": ", Car Flag",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-10-02T21:37:17Z",
-                "owner": "abaisero",
-                "repo": "gym-gridverse",
-                "stars": 29
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Arxiv"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Adaptive Q-Aid for Conditional Supervised Learning in Offline Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", AntMaze, Adroit",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Decomposed Prompt Decision Transformer for Efficient Unseen Task Generalization",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        }
-      ],
-      "title": "NeurIPS 2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MetaWorld",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-10T03:57:49Z",
-                "owner": "Farama-Foundation",
-                "repo": "Metaworld",
-                "stars": 1867
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Q-value Regularized Transformer for Offline Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: DSRL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-11-12T20:27:20Z",
-                "owner": "liuzuxin",
-                "repo": "DSRL",
-                "stars": 136
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Think Before You Act: Decision Transformers with Working Memory",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MetaWorld",
-              "description": ", Atari",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-10T03:57:49Z",
-                "owner": "Farama-Foundation",
-                "repo": "Metaworld",
-                "stars": 1867
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Rethinking Decision Transformer via Hierarchical Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICML 2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Learning Multi-Agent Communication from Graph Modeling Perspective",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: SMAC",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-02-18T19:49:08Z",
-                "owner": "oxwhirl",
-                "repo": "smac",
-                "stars": 1364
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": ", Atari",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "When should we prefer Decision Transformers for Offline Reinforcement Learning?",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICLR 2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "HIQL: Offline Goal-Conditioned RL with Latent States as Actions",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: BabyAI",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-10-01T01:53:59Z",
-                "owner": "mila-iqia",
-                "repo": "babyai",
-                "stars": 766
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Elastic Decision Transformer",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learning to Modulate pre-trained Models in RL",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MetaWorld",
-              "description": ", DMControl",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-10T03:57:49Z",
-                "owner": "Farama-Foundation",
-                "repo": "Metaworld",
-                "stars": 1867
-              }
-            }
-          ]
-        }
-      ],
-      "title": "NeurIPS 2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Constrained Decision Transformer for Offline Safe Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Bullet-Safety-Gym",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-07-07T10:10:40Z",
-                "owner": "SvenGronauer",
-                "repo": "Bullet-Safety-Gym",
-                "stars": 70
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: D4RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-11-18T16:40:39Z",
-                "owner": "Farama-Foundation",
-                "repo": "D4RL",
-                "stars": 1699
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICML 2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Learning to Modulate pre-trained Models in RL",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MetaWorld",
-              "description": ", DMControl",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-10T03:57:49Z",
-                "owner": "Farama-Foundation",
-                "repo": "Metaworld",
-                "stars": 1867
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "DeFog: Decision Transformer under Random Frame Dropping",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL, Atari",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-07-10T11:19:45Z",
-                "owner": "hukz18",
-                "repo": "DeFog",
-                "stars": 9
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICLR 2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "When does return-conditioned supervised learning work for offline reinforcement learning?",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "You Can't Count on Luck: Why Decision Transformers Fail in Stochastic Environments",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Gambling, Connect Four, 2048",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-11-21T21:51:14Z",
-                "owner": "FelipeMarcelino",
-                "repo": "2048-Gym",
-                "stars": 88
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: SMAC",
-              "description": ", MA MuJoco",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-02-18T19:49:08Z",
-                "owner": "oxwhirl",
-                "repo": "smac",
-                "stars": 1364
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Bootstrapped Transformer for Offline Reinforcement Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL, Adroit",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Multi-Game Decision Transformers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Atari",
-              "description": ", REM",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37238
-              }
-            }
-          ]
-        }
-      ],
-      "title": "NeurIPS 2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Instruction-driven history-aware policies for robotic manipulations",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: RLBench",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-25T13:13:19Z",
-                "owner": "stepjam",
-                "repo": "RLBench",
-                "stars": 1809
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: RLBench",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-01-25T13:13:19Z",
-                "owner": "stepjam",
-                "repo": "RLBench",
-                "stars": 1809
-              }
-            }
-          ]
-        }
-      ],
-      "title": "CoRL 2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Online Decision Transformer",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: unofficial",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-09-20T19:11:26Z",
-                "owner": "daniellawson9999",
-                "repo": "online-decision-transformer",
-                "stars": 41
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Prompting Decision Transformer for Few-Shot Policy Generalization",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: DMC",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T00:15:16Z",
-                "owner": "google-deepmind",
-                "repo": "dm_control",
-                "stars": 4666
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "AnyMorph: Learning Transferable Polices By Inferring Agent Morphology",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Modular-RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2022-12-27T15:36:25Z",
-                "owner": "huangwl18",
-                "repo": "modular-rl",
-                "stars": 235
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICML 2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Learning Transferable Policies By Inferring Agent Morphology",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Modular-RL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2022-12-27T15:36:25Z",
-                "owner": "huangwl18",
-                "repo": "modular-rl",
-                "stars": 235
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: ManiSkill",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-04T16:38:18Z",
-                "owner": "mani-skill",
-                "repo": "ManiSkill",
-                "stars": 3237
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-01-19T09:36:46Z",
-                "owner": "caiqi",
-                "repo": "Silver-Bullet-3D",
-                "stars": 20
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Generalized Decision Transformer for Offline Hindsight Information Matching",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-08-08T22:14:47Z",
-                "owner": "frt03",
-                "repo": "generalized_dt",
-                "stars": 70
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICLR 2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL, Atari",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": ", DI-engine",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-04-29T01:30:45Z",
-                "owner": "kzl",
-                "repo": "decision-transformer",
-                "stars": 2829
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Offline Reinforcement Learning as One Big Sequence Modeling Problem",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoco",
-              "description": ", D4RL",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2022-10-06T19:08:06Z",
-                "owner": "jannerm",
-                "repo": "trajectory-transformer",
-                "stars": 536
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "TransDreamer: Reinforcement Learning with Transformer World Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Hidden Order Discovery, DMC",
-              "description": ", Atari",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T00:15:16Z",
-                "owner": "google-deepmind",
-                "repo": "dm_control",
-                "stars": 4666
-              }
-            }
-          ]
-        }
-      ],
-      "title": "NeurIPS 2021"
-    },
-    {
-      "description": "Our purpose is to make this repo even better. If you are interested in contributing, please refer to HERE for instructions in contribution.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Awesome Decision Transformer is released under the Apache 2.0 license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:59:11.360Z",
+    "last_updated": "2026-08-19T09:59:29.302Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
     "enhanced_repository": "enhansome/enhansome-decision-transformer",
