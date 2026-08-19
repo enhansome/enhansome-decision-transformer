@@ -88,7 +88,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37240
+                    "stars": 37239
                   }
                 }
               ]
@@ -864,7 +864,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37240
+                    "stars": 37239
                   }
                 }
               ]
@@ -1224,8 +1224,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:59:29.302Z",
+    "last_updated": "2026-08-19T12:26:50.537Z",
     "original_repository": "opendilab/awesome-decision-transformer",
+    "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
     "enhanced_repository": "enhansome/enhansome-decision-transformer",
     "enhanced_repository_description": null,
