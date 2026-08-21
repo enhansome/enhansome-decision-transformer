@@ -88,7 +88,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -169,7 +169,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2498
+                    "stars": 2497
                   }
                 }
               ]
@@ -250,7 +250,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2498
+                    "stars": 2497
                   }
                 }
               ]
@@ -864,7 +864,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -893,7 +893,7 @@
                     "last_commit": "2025-01-25T13:13:19Z",
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1810
+                    "stars": 1812
                   }
                 }
               ]
@@ -915,7 +915,7 @@
                     "last_commit": "2025-01-25T13:13:19Z",
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1810
+                    "stars": 1812
                   }
                 }
               ]
@@ -978,7 +978,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1054,7 +1054,7 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3242
+                    "stars": 3249
                   }
                 },
                 {
@@ -1150,7 +1150,7 @@
                     "last_commit": "2024-04-29T01:30:45Z",
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2829
+                    "stars": 2830
                   }
                 }
               ]
@@ -1206,7 +1206,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1224,7 +1224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:01:39.549Z",
+    "last_updated": "2026-08-21T10:01:34.201Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
