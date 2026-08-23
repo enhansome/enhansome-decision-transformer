@@ -88,7 +88,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246
+                    "stars": 37248
                   }
                 }
               ]
@@ -213,7 +213,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 },
                 {
@@ -301,7 +301,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 }
               ]
@@ -323,7 +323,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 }
               ]
@@ -732,7 +732,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 },
                 {
@@ -776,7 +776,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 }
               ]
@@ -842,7 +842,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 }
               ]
@@ -864,7 +864,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246
+                    "stars": 37248
                   }
                 }
               ]
@@ -944,7 +944,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 },
                 {
@@ -981,7 +981,7 @@
                     "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4668
+                    "stars": 4670
                   }
                 }
               ]
@@ -1054,7 +1054,7 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3251
+                    "stars": 3254
                   }
                 },
                 {
@@ -1091,7 +1091,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 },
                 {
@@ -1135,7 +1135,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 },
                 {
@@ -1172,7 +1172,7 @@
                     "last_commit": "2023-12-10T12:47:21Z",
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3144
+                    "stars": 3143
                   }
                 },
                 {
@@ -1187,7 +1187,7 @@
                     "last_commit": "2022-10-06T19:08:06Z",
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
-                    "stars": 536
+                    "stars": 537
                   }
                 }
               ]
@@ -1209,7 +1209,7 @@
                     "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4668
+                    "stars": 4670
                   }
                 }
               ]
@@ -1224,7 +1224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:52:14.904Z",
+    "last_updated": "2026-08-23T09:53:20.665Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
