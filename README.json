@@ -88,7 +88,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37248
+                    "stars": 37249
                   }
                 }
               ]
@@ -169,7 +169,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2497
+                    "stars": 2498
                   }
                 }
               ]
@@ -250,7 +250,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2497
+                    "stars": 2498
                   }
                 }
               ]
@@ -864,7 +864,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37248
+                    "stars": 37249
                   }
                 }
               ]
@@ -1054,7 +1054,7 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3254
+                    "stars": 3255
                   }
                 },
                 {
@@ -1224,7 +1224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:53:20.665Z",
+    "last_updated": "2026-08-24T10:11:51.548Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
