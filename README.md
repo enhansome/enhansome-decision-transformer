@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,433 | 🐛 106 | 📅 2026-08-21\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -334,10 +334,10 @@ format:
 ### IROS 2024
 
 * [Steering Decision Transformers via Temporal Difference Learning](https://cpsl.pratt.duke.edu/files/docs/d2t2.pdf)
+  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18, Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
   * Hao-Lun Hsu, Alper Kamil Bozkurt, Juncheng Dong, Qitong Gao, Vahid Tarokh, Miroslav Pajic
   * Publisher: IROS 2024
   * Key: Robotics, offline reinforcement learning, sequence modeling
-  * ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18, Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
 
 ### ICML 2024
 
@@ -348,7 +348,7 @@ format:
   * ExpEnv: [MiniHack](), [Procgen]()
 
 * [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,869 | 🐛 13 | 🌐 Python | 📅 2026-08-10
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,870 | 🐛 13 | 🌐 Python | 📅 2026-08-10
   * Shengchao Hu, Ziqing Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
   * Publisher: ICML 2024
   * Key: Multi-task, DT
@@ -366,7 +366,7 @@ format:
   * Key: Signal Temporal Logic (STL), DT
 
 * [Think Before You Act: Decision Transformers with Working Memory](https://openreview.net/forum?id=PSQ5Z920M8)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,869 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,870 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
   * Publisher: ICML 2024
   * Key: Working Memory, DT
@@ -462,7 +462,7 @@ format:
   * Key: Offline RL, stitch trajectory, Multi-Task
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,869 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,870 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: NeurIPS 2023 (Poster)
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -477,19 +477,19 @@ format:
   * ExpEnv: Dishwasher Loading
 
 * [Q-Transformer](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)
+  * Code: [Unofficial](https://github.com/lucidrains/q-transformer) ⭐ 406 | 🐛 9 | 🌐 Python | 📅 2026-08-11
   * Yevgen Chebotar, Quan Vuong, Alex Irpan, Karol Hausman, Fei Xia, Yao Lu, Aviral Kumar, Tianhe Yu, Alexander Herzog, Karl Pertsch, Keerthana Gopalakrishnan, Julian Ibarz, Ofir Nachum, Sumedh Sontakke, Grecia Salazar, Huong T Tran, Jodilyn Peralta, Clayton Tan, Deeksha Manjunath, Jaspiar Singht, Brianna Zitkovich, Tomas Jackson, Kanishka Rao, Chelsea Finn, Sergey Levine
   * Publisher: CoRL 2023
   * Key: Reinforcement Learning, Offline RL, Transformers, Q-Learning, Robotic Manipulation
-  * Code: [Unofficial](https://github.com/lucidrains/q-transformer) ⭐ 406 | 🐛 9 | 🌐 Python | 📅 2026-08-11
   * ExpEnv: None
 
 ### IROS 2023
 
 * [Hierarchical Decision Transformer](https://arxiv.org/abs/2209.10447)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18, RoboMimic, Maze 2D
   * André Correia, Luís A. Alexandre
   * Publisher: IROS 2023
   * Key: Hierarchical Learning, Imitation Learning
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18, RoboMimic, Maze 2D
 
 * [PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training](https://arxiv.org/abs/2209.11133)
   * Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor
@@ -514,10 +514,10 @@ format:
 ### ICRA 2023
 
 * [LATTE: LAnguage Trajectory TransformEr](https://arxiv.org/abs/2208.02918)
+  * Code: [official](https://github.com/arthurfenderbucker/latte-language-trajectory-transformer) ⭐ 42 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-08-31, [official](https://github.com/arthurfenderbucker/nl_trajectory_reshaper) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-12-14
   * Arthur Bucker, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Sai Vemprala, Rogerio Bonatti
   * Publisher: ICRA 2023
   * Key: MultiModal,  Robotics
-  * Code: [official](https://github.com/arthurfenderbucker/latte-language-trajectory-transformer) ⭐ 42 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-08-31, [official](https://github.com/arthurfenderbucker/nl_trajectory_reshaper) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-12-14
   * ExpEnv: [CoppeliaSim](https://www.coppeliarobotics.com/)
 
 ### ICLR 2023
@@ -535,7 +535,7 @@ format:
   * ExpEnv: None
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,869 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,870 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: ICLR 2023 Reincarnating RL workshop
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -641,10 +641,10 @@ format:
 ### AAAI 2022
 
 * [Dreaming with Transformers](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)
+  * ExpEnv: [Deepmind Lab](https://github.com/deepmind/lab) ⭐ 7,373 | 🐛 66 | 🌐 C | 📅 2023-01-04, [VISTA](https://github.com/vista-simulator/vista) ⭐ 409 | 🐛 18 | 🌐 Python | 📅 2023-11-20
   * Catherine Zeng, Jordan Docter, Alexander Amini, Igor Gilitschenski, Ramin Hasani, Daniela Rus
   * Publisher: AAAI 2022 (RLG Workshop)
   * Key: Dreamer, World Model
-  * ExpEnv: [Deepmind Lab](https://github.com/deepmind/lab) ⭐ 7,373 | 🐛 66 | 🌐 C | 📅 2023-01-04, [VISTA](https://github.com/vista-simulator/vista) ⭐ 409 | 🐛 18 | 🌐 Python | 📅 2023-11-20
 
 ### ICLR 2022
 
@@ -655,7 +655,7 @@ format:
   * Key: Morphology, Transfer Learning, Zero Shot
 
 * [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
-  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,255 | 🐛 134 | 🌐 Python | 📅 2026-08-04
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,256 | 🐛 134 | 🌐 Python | 📅 2026-08-04
   * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
   * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
   * Publisher: ICLR 2022 (GPL Workshop Poster)
@@ -694,11 +694,11 @@ format:
 ### ICML 2021
 
 * [Reinforcement learning as one big sequence modeling problem](https://arxiv.org/abs/2106.02039v1)
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * Code: [official](https://github.com/JannerM/trajectory-transformer) ⭐ 537 | 🐛 8 | 🌐 Python | 📅 2022-10-06
   * Michael Janner, Qiyang Li, Sergey Levine
   * Publisher: ICML workshop
   * Key: Conditional sequence modeling, Discretization
-  * Code: [official](https://github.com/JannerM/trajectory-transformer) ⭐ 537 | 🐛 8 | 🌐 Python | 📅 2022-10-06
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18
 
 ## Contributing
 

@@ -88,7 +88,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37249
+                    "stars": 37250
                   }
                 }
               ]
@@ -337,6 +337,35 @@
           "children": [
             {
               "node_type": "group",
+              "title": "Steering Decision Transformers via Temporal Difference Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: D4RL",
+                  "description": ", Robotic Manipulation, CARLA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255029381,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T16:40:39Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "D4RL",
+                    "stars": 1700
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IROS 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
               "title": "HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning",
               "description": null,
               "children": [
@@ -352,7 +381,7 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1869
+                    "stars": 1870
                   }
                 }
               ]
@@ -418,7 +447,7 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1869
+                    "stars": 1870
                   }
                 }
               ]
@@ -630,7 +659,7 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1869
+                    "stars": 1870
                   }
                 }
               ]
@@ -639,6 +668,64 @@
           "description": null,
           "node_type": "group",
           "title": "NeurIPS 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Q-Transformer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Unofficial",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 694279648,
+                    "language": "Python",
+                    "last_commit": "2026-08-11T19:11:48Z",
+                    "owner": "lucidrains",
+                    "repo": "q-transformer",
+                    "stars": 406
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CoRL 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Hierarchical Decision Transformer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL, RoboMimic, Maze 2D",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3143
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IROS 2023"
         },
         {
           "children": [
@@ -695,6 +782,35 @@
           "children": [
             {
               "node_type": "group",
+              "title": "LATTE: LAnguage Trajectory TransformEr",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": ", official",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 504000481,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-08-31T13:42:52Z",
+                    "owner": "arthurfenderbucker",
+                    "repo": "LaTTe-Language-Trajectory-TransformEr",
+                    "stars": 42
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICRA 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
               "title": "Learning to Modulate pre-trained Models in RL",
               "description": null,
               "children": [
@@ -710,7 +826,7 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1869
+                    "stars": 1870
                   }
                 }
               ]
@@ -864,7 +980,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37249
+                    "stars": 37250
                   }
                 }
               ]
@@ -1017,6 +1133,35 @@
           "children": [
             {
               "node_type": "group",
+              "title": "Dreaming with Transformers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Deepmind Lab",
+                  "description": ", VISTA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 75190475,
+                    "language": "C",
+                    "last_commit": "2023-01-04T15:38:37Z",
+                    "owner": "google-deepmind",
+                    "repo": "lab",
+                    "stars": 7373
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
               "title": "Learning Transferable Policies By Inferring Agent Morphology",
               "description": null,
               "children": [
@@ -1054,7 +1199,7 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3255
+                    "stars": 3256
                   }
                 },
                 {
@@ -1218,13 +1363,57 @@
           "description": null,
           "node_type": "group",
           "title": "NeurIPS 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Reinforcement learning as one big sequence modeling problem",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoco",
+                  "description": ", D4RL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3143
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403191132,
+                    "language": "Python",
+                    "last_commit": "2022-10-06T19:08:06Z",
+                    "owner": "jannerm",
+                    "repo": "trajectory-transformer",
+                    "stars": 537
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2021"
         }
       ],
       "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:11:51.548Z",
+    "last_updated": "2026-08-24T14:16:13.279Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
