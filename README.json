@@ -88,7 +88,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37250
+                    "stars": 37251
                   }
                 }
               ]
@@ -166,7 +166,7 @@
                     "archived": false,
                     "id": 114143182,
                     "language": "Python",
-                    "last_commit": "2026-08-06T05:37:37Z",
+                    "last_commit": "2026-08-24T22:06:07Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2498
@@ -247,7 +247,7 @@
                     "archived": false,
                     "id": 114143182,
                     "language": "Python",
-                    "last_commit": "2026-08-06T05:37:37Z",
+                    "last_commit": "2026-08-24T22:06:07Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2498
@@ -980,7 +980,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37250
+                    "stars": 37251
                   }
                 }
               ]
@@ -1097,7 +1097,7 @@
                     "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4670
+                    "stars": 4671
                   }
                 }
               ]
@@ -1199,7 +1199,7 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3256
+                    "stars": 3258
                   }
                 },
                 {
@@ -1354,7 +1354,7 @@
                     "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4670
+                    "stars": 4671
                   }
                 }
               ]
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:13.279Z",
+    "last_updated": "2026-08-25T06:09:58.401Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
