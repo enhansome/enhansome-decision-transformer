@@ -1009,7 +1009,7 @@
                     "last_commit": "2025-01-25T13:13:19Z",
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1812
+                    "stars": 1811
                   }
                 }
               ]
@@ -1031,7 +1031,7 @@
                     "last_commit": "2025-01-25T13:13:19Z",
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1812
+                    "stars": 1811
                   }
                 }
               ]
@@ -1199,7 +1199,7 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3262
+                    "stars": 3264
                   }
                 },
                 {
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:01:37.853Z",
+    "last_updated": "2026-08-26T10:06:49.033Z",
     "original_repository": "opendilab/awesome-decision-transformer",
     "original_repository_id": 520099551,
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",

@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,746 | 🐛 106 | 📅 2026-08-21\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,047 | 🐛 106 | 📅 2026-08-21\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -562,13 +562,13 @@ format:
   * Key: Stochastic Environments
 
 * [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,365 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 373 | 🐛 6 | 🌐 Python | 📅 2023-03-16
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,365 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 374 | 🐛 6 | 🌐 Python | 📅 2023-03-16
   * Muning Wen, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, Yaodong Yang
   * Publisher: NeurIPS 2022
   * Key: Multi-Agent RL
 
 * [Bootstrapped Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2206.08569)
-  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Adroit](https://github.com/aravindr93/hand_dapg) ⭐ 325 | 🐛 7 | 🌐 Python | 📅 2023-04-09
+  * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Adroit](https://github.com/aravindr93/hand_dapg) ⭐ 326 | 🐛 7 | 🌐 Python | 📅 2023-04-09
   * Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, Dongsheng Li
   * Publisher: NeurIPS 2022
   * Key:  Generation model
@@ -596,14 +596,14 @@ format:
   * ExpEnv: [RECON](https://sites.google.com/view/recon-robot/)
 
 * [Instruction-driven history-aware policies for robotic manipulations](https://arxiv.org/abs/2209.04899)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,812 | 🐛 94 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,811 | 🐛 94 | 🌐 Python | 📅 2025-01-25
   * Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid
   * Publisher:  CoRL 2022 (Oral)
   * Key: Robotics, Language Instruction
   * Code: [official](https://guhur.github.io/hiveformer/)
 
 * [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,812 | 🐛 94 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,811 | 🐛 94 | 🌐 Python | 📅 2025-01-25
   * Mohit Shridhar, Lucas Manuelli, Dieter Fox
   * Publisher:  CoRL 2022
   * Key: Robotics,  Language Grounding, Behavior Cloning
@@ -655,7 +655,7 @@ format:
   * Key: Morphology, Transfer Learning, Zero Shot
 
 * [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
-  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,262 | 🐛 134 | 🌐 Python | 📅 2026-08-04
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,264 | 🐛 134 | 🌐 Python | 📅 2026-08-04
   * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
   * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
   * Publisher: ICLR 2022 (GPL Workshop Poster)
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
