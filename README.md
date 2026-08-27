@@ -1,10 +1,10 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,485 | 🐛 105 | 📅 2026-08-21\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
-[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE) ⭐ 915 | 🐛 2 | 📅 2026-05-21
+[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE) ⭐ 916 | 🐛 2 | 📅 2026-05-21
 
 This is a collection of research papers for **Decision Transformer (DT)**.
 And the repository will be continuously updated to track the frontier of DT.
