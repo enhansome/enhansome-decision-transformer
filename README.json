@@ -23,7 +23,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -45,7 +46,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -67,7 +69,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -88,8 +91,9 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37248
-                  }
+                    "stars": 37246
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -111,7 +115,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -133,7 +138,8 @@
                     "owner": "oxwhirl",
                     "repo": "smac",
                     "stars": 1366
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -148,7 +154,8 @@
                     "owner": "ReinholdM",
                     "repo": "Offline-Pre-trained-Multi-Agent-Decision-Transformer",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -169,8 +176,9 @@
                     "last_commit": "2026-08-24T22:06:07Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2500
-                  }
+                    "stars": 2501
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -192,7 +200,8 @@
                     "owner": "xingdi-eric-yuan",
                     "repo": "qait_public",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -214,7 +223,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +239,8 @@
                     "owner": "machelreid",
                     "repo": "can-wikipedia-help-offline-rl",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -250,8 +261,9 @@
                     "last_commit": "2026-08-24T22:06:07Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2500
-                  }
+                    "stars": 2501
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -273,7 +285,8 @@
                     "owner": "abaisero",
                     "repo": "gym-gridverse",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -302,7 +315,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -324,7 +338,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -353,7 +368,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -381,8 +397,9 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1873
-                  }
+                    "stars": 1874
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -404,7 +421,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -426,7 +444,8 @@
                     "owner": "liuzuxin",
                     "repo": "DSRL",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -447,8 +466,9 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1873
-                  }
+                    "stars": 1874
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -470,7 +490,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -492,7 +513,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -521,7 +543,8 @@
                     "owner": "oxwhirl",
                     "repo": "smac",
                     "stars": 1366
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -543,7 +566,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -565,7 +589,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -594,7 +619,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -616,7 +642,8 @@
                     "owner": "mila-iqia",
                     "repo": "babyai",
                     "stars": 765
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -638,7 +665,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -659,8 +687,9 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1873
-                  }
+                    "stars": 1874
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -689,7 +718,8 @@
                     "owner": "lucidrains",
                     "repo": "q-transformer",
                     "stars": 406
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -718,7 +748,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -747,7 +778,8 @@
                     "owner": "SvenGronauer",
                     "repo": "Bullet-Safety-Gym",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -769,7 +801,8 @@
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
                     "stars": 1700
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -798,7 +831,8 @@
                     "owner": "arthurfenderbucker",
                     "repo": "LaTTe-Language-Trajectory-TransformEr",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -826,8 +860,9 @@
                     "last_commit": "2026-08-10T03:57:49Z",
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1873
-                  }
+                    "stars": 1874
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -849,7 +884,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -864,7 +900,8 @@
                     "owner": "hukz18",
                     "repo": "DeFog",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -893,7 +930,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -915,7 +953,8 @@
                     "owner": "FelipeMarcelino",
                     "repo": "2048-Gym",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -937,7 +976,8 @@
                     "owner": "oxwhirl",
                     "repo": "smac",
                     "stars": 1366
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -959,7 +999,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -980,8 +1021,9 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37248
-                  }
+                    "stars": 37246
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1010,7 +1052,8 @@
                     "owner": "stepjam",
                     "repo": "RLBench",
                     "stars": 1812
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1032,7 +1075,8 @@
                     "owner": "stepjam",
                     "repo": "RLBench",
                     "stars": 1812
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1061,7 +1105,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -1076,7 +1121,8 @@
                     "owner": "daniellawson9999",
                     "repo": "online-decision-transformer",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1097,8 +1143,9 @@
                     "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4672
-                  }
+                    "stars": 4674
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1120,7 +1167,8 @@
                     "owner": "huangwl18",
                     "repo": "modular-rl",
                     "stars": 235
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1149,7 +1197,8 @@
                     "owner": "google-deepmind",
                     "repo": "lab",
                     "stars": 7373
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1178,7 +1227,8 @@
                     "owner": "huangwl18",
                     "repo": "modular-rl",
                     "stars": 235
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1199,8 +1249,9 @@
                     "last_commit": "2026-08-04T16:38:18Z",
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3266
-                  }
+                    "stars": 3268
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -1215,7 +1266,8 @@
                     "owner": "caiqi",
                     "repo": "Silver-Bullet-3D",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1237,7 +1289,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -1252,7 +1305,8 @@
                     "owner": "frt03",
                     "repo": "generalized_dt",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1281,7 +1335,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -1296,7 +1351,8 @@
                     "owner": "kzl",
                     "repo": "decision-transformer",
                     "stars": 2830
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1318,7 +1374,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -1333,7 +1390,8 @@
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
                     "stars": 537
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             },
@@ -1354,8 +1412,9 @@
                     "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4672
-                  }
+                    "stars": 4674
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1384,7 +1443,8 @@
                     "owner": "openai",
                     "repo": "mujoco-py",
                     "stars": 3142
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 },
                 {
                   "node_type": "item",
@@ -1399,7 +1459,8 @@
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
                     "stars": 537
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:58:31.808Z"
                 }
               ]
             }
@@ -1413,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:55:47.299Z",
+    "last_updated": "2026-08-28T20:58:31.808Z",
     "original_repository_info": {
       "archived": false,
       "id": 520099551,
