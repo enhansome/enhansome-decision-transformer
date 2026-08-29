@@ -17,12 +17,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -40,12 +45,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -63,12 +73,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -86,12 +101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                    "homepage": "https://www.gymlibrary.dev",
                     "id": 57222302,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-26T23:13:27Z",
+                    "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246
+                    "stars": 37244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -109,12 +129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -132,12 +157,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SMAC: The StarCraft Multi-Agent Challenge",
+                    "homepage": null,
                     "id": 164697388,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-18T19:49:08Z",
+                    "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1366
+                    "stars": 1366,
+                    "topics": [
+                      "benchmark",
+                      "machine-learning",
+                      "multiagent-systems",
+                      "reinforcement-learning",
+                      "starcraft-ii"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -148,12 +184,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 435781649,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-15T14:35:53Z",
+                    "open_issues": 12,
                     "owner": "ReinholdM",
                     "repo": "Offline-Pre-trained-Multi-Agent-Decision-Transformer",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -171,12 +212,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                    "homepage": "https://minigrid.farama.org/",
                     "id": 114143182,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T22:06:07Z",
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2501
+                    "stars": 2501,
+                    "topics": [
+                      "gridworld-environment",
+                      "gymnasium",
+                      "gymnasium-environment"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -194,12 +244,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Question Answering with Interactive Text (QAit), code for EMNLP 2019 paper \"Interactive Language Learning by Question Answering\"",
+                    "homepage": null,
                     "id": 203653776,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-09-03T03:43:46Z",
+                    "open_issues": 1,
                     "owner": "xingdi-eric-yuan",
                     "repo": "qait_public",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -217,12 +272,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -233,12 +293,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code for \"Can Wikipedia Help Offline Reinforcement Learning?\" by Machel Reid, Yutaro Yamada and Shixiang Shane Gu",
+                    "homepage": "https://arxiv.org/abs/2201.12122",
                     "id": 452973227,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-18T07:55:39Z",
+                    "open_issues": 1,
                     "owner": "machelreid",
                     "repo": "can-wikipedia-help-offline-rl",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -256,12 +321,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                    "homepage": "https://minigrid.farama.org/",
                     "id": 114143182,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T22:06:07Z",
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2501
+                    "stars": 2501,
+                    "topics": [
+                      "gridworld-environment",
+                      "gymnasium",
+                      "gymnasium-environment"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -279,12 +353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gridworld domains in the gym interface",
+                    "homepage": null,
                     "id": 280717927,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-02T21:37:17Z",
+                    "open_issues": 3,
                     "owner": "abaisero",
                     "repo": "gym-gridverse",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -309,12 +388,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -332,12 +416,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -362,12 +451,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -392,12 +486,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning",
+                    "homepage": "https://metaworld.farama.org/",
                     "id": 207383121,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T03:57:49Z",
+                    "open_issues": 13,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1874
+                    "stars": 1874,
+                    "topics": [
+                      "benchmark-environments",
+                      "meta-rl",
+                      "mujoco",
+                      "multi-task"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -415,12 +519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -438,12 +547,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥 Datasets and env wrappers for offline safe reinforcement learning",
+                    "homepage": "https://offline-saferl.org",
                     "id": 649878393,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-12T20:27:20Z",
+                    "open_issues": 3,
                     "owner": "liuzuxin",
                     "repo": "DSRL",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": [
+                      "benchmark",
+                      "dataset",
+                      "imitation-learning",
+                      "offline-rl",
+                      "reinforcement-learning",
+                      "robotics",
+                      "safe-rl",
+                      "safety"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -461,12 +584,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning",
+                    "homepage": "https://metaworld.farama.org/",
                     "id": 207383121,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T03:57:49Z",
+                    "open_issues": 13,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1874
+                    "stars": 1874,
+                    "topics": [
+                      "benchmark-environments",
+                      "meta-rl",
+                      "mujoco",
+                      "multi-task"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -484,12 +617,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -507,12 +645,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -537,12 +680,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SMAC: The StarCraft Multi-Agent Challenge",
+                    "homepage": null,
                     "id": 164697388,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-18T19:49:08Z",
+                    "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1366
+                    "stars": 1366,
+                    "topics": [
+                      "benchmark",
+                      "machine-learning",
+                      "multiagent-systems",
+                      "reinforcement-learning",
+                      "starcraft-ii"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -560,12 +714,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -583,12 +742,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -613,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -636,12 +805,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BabyAI platform. A testbed for training agents to understand and execute language commands.",
+                    "homepage": null,
                     "id": 151299234,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-10-01T01:53:59Z",
+                    "open_issues": 14,
                     "owner": "mila-iqia",
                     "repo": "babyai",
-                    "stars": 765
+                    "stars": 765,
+                    "topics": [
+                      "imitation-learning",
+                      "nlp",
+                      "nlp-machine-learning",
+                      "openai-gym",
+                      "reinforcement-learning-environments"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -659,12 +839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -682,12 +867,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning",
+                    "homepage": "https://metaworld.farama.org/",
                     "id": 207383121,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T03:57:49Z",
+                    "open_issues": 13,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1874
+                    "stars": 1874,
+                    "topics": [
+                      "benchmark-environments",
+                      "meta-rl",
+                      "mujoco",
+                      "multi-task"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -712,12 +907,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of Q-Transformer, Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, out of Google Deepmind",
+                    "homepage": null,
                     "id": 694279648,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T19:11:48Z",
+                    "open_issues": 9,
                     "owner": "lucidrains",
                     "repo": "q-transformer",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": [
+                      "artificial-intelligence",
+                      "attention-mechanisms",
+                      "deep-learning",
+                      "offline-learning",
+                      "q-learning",
+                      "robotics",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -742,12 +950,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -772,12 +985,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source framework to benchmark and assess safety specifications of Reinforcement Learning problems.",
+                    "homepage": null,
                     "id": 343567536,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-07T10:10:40Z",
+                    "open_issues": 0,
                     "owner": "SvenGronauer",
                     "repo": "Bullet-Safety-Gym",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "gym",
+                      "gym-environments",
+                      "open-source",
+                      "pybullet",
+                      "reinforcement-learning",
+                      "safety"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -795,12 +1020,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of reference environments for offline reinforcement learning",
+                    "homepage": null,
                     "id": 255029381,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-18T16:40:39Z",
+                    "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700
+                    "stars": 1700,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -825,12 +1055,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 504000481,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-08-31T13:42:52Z",
+                    "open_issues": 1,
                     "owner": "arthurfenderbucker",
                     "repo": "LaTTe-Language-Trajectory-TransformEr",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -855,12 +1090,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning",
+                    "homepage": "https://metaworld.farama.org/",
                     "id": 207383121,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T03:57:49Z",
+                    "open_issues": 13,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1874
+                    "stars": 1874,
+                    "topics": [
+                      "benchmark-environments",
+                      "meta-rl",
+                      "mujoco",
+                      "multi-task"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -878,12 +1123,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -894,12 +1144,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for the ICLR 2023 conference paper \"DeFog: Decision Transformer under Random Frame Dropping\"",
+                    "homepage": null,
                     "id": 664615578,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-10T11:19:45Z",
+                    "open_issues": 0,
                     "owner": "hukz18",
                     "repo": "DeFog",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "decision-transformers",
+                      "frame-dropping",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -924,12 +1183,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -947,12 +1211,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This projects aims to use reinforcement learning algorithms to play the game 2048. ",
+                    "homepage": null,
                     "id": 249430981,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-21T21:51:14Z",
+                    "open_issues": 4,
                     "owner": "FelipeMarcelino",
                     "repo": "2048-Gym",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "2048",
+                      "artificial-intelligence",
+                      "ddqn",
+                      "gym-environment",
+                      "machine-learning",
+                      "openai-gym",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -970,12 +1247,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SMAC: The StarCraft Multi-Agent Challenge",
+                    "homepage": null,
                     "id": 164697388,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-18T19:49:08Z",
+                    "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1366
+                    "stars": 1366,
+                    "topics": [
+                      "benchmark",
+                      "machine-learning",
+                      "multiagent-systems",
+                      "reinforcement-learning",
+                      "starcraft-ii"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -993,12 +1281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1016,12 +1309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                    "homepage": "https://www.gymlibrary.dev",
                     "id": 57222302,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-26T23:13:27Z",
+                    "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246
+                    "stars": 37244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1046,12 +1344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A large-scale benchmark and learning environment.",
+                    "homepage": "https://sites.google.com/corp/view/rlbench",
                     "id": 211181267,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-01-25T13:13:19Z",
+                    "open_issues": 93,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1812
+                    "stars": 1812,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1069,12 +1372,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A large-scale benchmark and learning environment.",
+                    "homepage": "https://sites.google.com/corp/view/rlbench",
                     "id": 211181267,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-01-25T13:13:19Z",
+                    "open_issues": 93,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1812
+                    "stars": 1812,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1099,12 +1407,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -1115,12 +1428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An unofficial implementation for online decision transformer",
+                    "homepage": null,
                     "id": 513654387,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-09-20T19:11:26Z",
+                    "open_issues": 2,
                     "owner": "daniellawson9999",
                     "repo": "online-decision-transformer",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1138,12 +1456,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                    "homepage": null,
                     "id": 115744122,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T14:19:29Z",
+                    "open_issues": 128,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4674
+                    "stars": 4674,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "machine-learning",
+                      "mujoco",
+                      "neural-networks",
+                      "physics-simulation",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1161,12 +1492,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2020] PyTorch Code for \"One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control\"",
+                    "homepage": "https://huangwl18.github.io/modular-rl/",
                     "id": 278438798,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-27T15:36:25Z",
+                    "open_issues": 13,
                     "owner": "huangwl18",
                     "repo": "modular-rl",
-                    "stars": 235
+                    "stars": 235,
+                    "topics": [
+                      "decentralized-control",
+                      "deep-learning",
+                      "emergent-communication",
+                      "generalization",
+                      "graph-neural-networks",
+                      "locomotion",
+                      "message-passing",
+                      "modular-control",
+                      "modularity",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1191,12 +1538,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A customisable 3D platform for agent-based AI research",
+                    "homepage": null,
                     "id": 75190475,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-01-04T15:38:37Z",
+                    "open_issues": 66,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7373
+                    "stars": 7373,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "machine-learning",
+                      "neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1221,12 +1578,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2020] PyTorch Code for \"One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control\"",
+                    "homepage": "https://huangwl18.github.io/modular-rl/",
                     "id": 278438798,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-27T15:36:25Z",
+                    "open_issues": 13,
                     "owner": "huangwl18",
                     "repo": "modular-rl",
-                    "stars": 235
+                    "stars": 235,
+                    "topics": [
+                      "decentralized-control",
+                      "deep-learning",
+                      "emergent-communication",
+                      "generalization",
+                      "graph-neural-networks",
+                      "locomotion",
+                      "message-passing",
+                      "modular-control",
+                      "modularity",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1244,12 +1617,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
+                    "homepage": "https://maniskill.ai/",
                     "id": 520357130,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
+                    "open_issues": 134,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3268
+                    "stars": 3269,
+                    "topics": [
+                      "embodied-ai",
+                      "reinforcement-learning",
+                      "robot-learning",
+                      "robot-manipulation",
+                      "robotics",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -1260,12 +1645,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository is the official implementation of *Silver-Bullet-3D* Solution for SAPIEN ManiSkill Challenge 2021",
+                    "homepage": null,
                     "id": 449323826,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-19T09:36:46Z",
+                    "open_issues": 0,
                     "owner": "caiqi",
                     "repo": "Silver-Bullet-3D",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1283,12 +1673,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -1299,12 +1694,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generalized Decision Transformer for Offline Hindsight Information Matching (ICLR2022)",
+                    "homepage": "https://arxiv.org/abs/2111.10364",
                     "id": 430981441,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-08T22:14:47Z",
+                    "open_issues": 4,
                     "owner": "frt03",
                     "repo": "generalized_dt",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1329,12 +1729,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -1345,12 +1750,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.",
+                    "homepage": null,
                     "id": 373111497,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-29T01:30:45Z",
+                    "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2830
+                    "stars": 2830,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1368,12 +1778,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -1384,12 +1799,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Offline Reinforcement Learning as One Big Sequence Modeling Problem\"",
+                    "homepage": "https://trajectory-transformer.github.io",
                     "id": 403191132,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-06T19:08:06Z",
+                    "open_issues": 8,
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
-                    "stars": 537
+                    "stars": 537,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1407,12 +1827,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                    "homepage": null,
                     "id": 115744122,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T14:19:29Z",
+                    "open_issues": 128,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4674
+                    "stars": 4674,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "machine-learning",
+                      "mujoco",
+                      "neural-networks",
+                      "physics-simulation",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1437,12 +1870,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                    "homepage": null,
                     "id": 56986017,
                     "language": "Cython",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-10T12:47:21Z",
+                    "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3142
+                    "stars": 3142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 },
@@ -1453,12 +1891,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Offline Reinforcement Learning as One Big Sequence Modeling Problem\"",
+                    "homepage": "https://trajectory-transformer.github.io",
                     "id": 403191132,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-06T19:08:06Z",
+                    "open_issues": 8,
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
-                    "stars": 537
+                    "stars": 537,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
                 }
@@ -1474,15 +1917,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:31.808Z",
+    "last_updated": "2026-08-29T04:35:01.828Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Decision Transformer resources (continually updated)",
+      "homepage": null,
       "id": 520099551,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-21T07:51:51Z",
+      "open_issues": 2,
       "owner": "opendilab",
       "repo": "awesome-decision-transformer",
-      "stars": 916
+      "stars": 916,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "decision-transformers",
+        "imitation-learning",
+        "reinforcement-learning",
+        "reinforcement-learning-algorithms"
+      ]
     },
     "original_repository_sha": "7673d1802f53f9e061401de1f007ddc26245c89f",
     "enhanced_repository": "enhansome/enhansome-decision-transformer",
