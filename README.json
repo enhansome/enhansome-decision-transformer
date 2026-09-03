@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246,
+                    "stars": 37244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -221,7 +221,7 @@
                     "open_issues": 22,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2502,
+                    "stars": 2503,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 22,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2502,
+                    "stars": 2503,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -556,7 +556,7 @@
                     "open_issues": 3,
                     "owner": "liuzuxin",
                     "repo": "DSRL",
-                    "stars": 136,
+                    "stars": 137,
                     "topics": [
                       "benchmark",
                       "dataset",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246,
+                    "stars": 37244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1623,7 +1623,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 135,
+                    "open_issues": 136,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
                     "stars": 3283,
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:47:55.709Z",
+    "last_updated": "2026-09-03T13:47:14.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
