@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,144 | 🐛 106 | 📅 2026-09-02\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,437 | 🐛 106 | 📅 2026-09-02\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -596,14 +596,14 @@ format:
   * ExpEnv: [RECON](https://sites.google.com/view/recon-robot/)
 
 * [Instruction-driven history-aware policies for robotic manipulations](https://arxiv.org/abs/2209.04899)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,816 | 🐛 93 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,817 | 🐛 93 | 🌐 Python | 📅 2025-01-25
   * Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid
   * Publisher:  CoRL 2022 (Oral)
   * Key: Robotics, Language Instruction
   * Code: [official](https://guhur.github.io/hiveformer/)
 
 * [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,816 | 🐛 93 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,817 | 🐛 93 | 🌐 Python | 📅 2025-01-25
   * Mohit Shridhar, Lucas Manuelli, Dieter Fox
   * Publisher:  CoRL 2022
   * Key: Robotics,  Language Grounding, Behavior Cloning
@@ -655,7 +655,7 @@ format:
   * Key: Morphology, Transfer Learning, Zero Shot
 
 * [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
-  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,301 | 🐛 136 | 🌐 Python | 📅 2026-08-04
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,306 | 🐛 135 | 🌐 Python | 📅 2026-08-04
   * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
   * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
   * Publisher: ICLR 2022 (GPL Workshop Poster)
@@ -673,7 +673,7 @@ format:
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
 
   * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,704 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
-  * Code: [official](https://github.com/kzl/decision-transformer) ⭐ 2,832 | 🐛 37 | 🌐 Python | 📅 2024-04-29, [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py) ⭐ 3,645 | 🐛 26 | 🌐 Python | 📅 2025-12-07
+  * Code: [official](https://github.com/kzl/decision-transformer) ⭐ 2,831 | 🐛 37 | 🌐 Python | 📅 2024-04-29, [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py) ⭐ 3,645 | 🐛 26 | 🌐 Python | 📅 2025-12-07
   * Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch
   * Publisher: NeurIPS 2021 (Poster)
   * Key: Conditional sequence modeling
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

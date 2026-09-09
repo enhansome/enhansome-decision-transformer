@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37237,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37237,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 93,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1816,
+                    "stars": 1817,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 93,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1816,
+                    "stars": 1817,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1623,10 +1623,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 136,
+                    "open_issues": 135,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3301,
+                    "stars": 3306,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1759,7 +1759,7 @@
                     "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2832,
+                    "stars": 2831,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:47:28.814Z",
+    "last_updated": "2026-09-09T13:50:16.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
