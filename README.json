@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37237,
+                    "stars": 37238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -281,7 +281,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -397,7 +397,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -425,7 +425,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -495,7 +495,7 @@
                     "open_issues": 16,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1880,
+                    "stars": 1881,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 16,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1880,
+                    "stars": 1881,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -876,7 +876,7 @@
                     "open_issues": 16,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1880,
+                    "stars": 1881,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -959,7 +959,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1099,7 +1099,7 @@
                     "open_issues": 16,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1880,
+                    "stars": 1881,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1132,7 +1132,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1192,7 +1192,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1290,7 +1290,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37237,
+                    "stars": 37238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 93,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1817,
+                    "stars": 1818,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 93,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1817,
+                    "stars": 1818,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1416,7 +1416,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1465,7 +1465,7 @@
                     "open_issues": 129,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4689,
+                    "stars": 4692,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1547,7 +1547,7 @@
                     "open_issues": 67,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7377,
+                    "stars": 7378,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1623,10 +1623,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 134,
+                    "open_issues": 135,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3313,
+                    "stars": 3319,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1682,7 +1682,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1738,7 +1738,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1759,7 +1759,7 @@
                     "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2832,
+                    "stars": 2831,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1836,7 +1836,7 @@
                     "open_issues": 129,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4689,
+                    "stars": 4692,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1879,7 +1879,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3143,
+                    "stars": 3144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:51:52.990Z",
+    "last_updated": "2026-09-14T15:58:15.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
