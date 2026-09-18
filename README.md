@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,022 | 🐛 106 | 📅 2026-09-02\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,362 | 🐛 106 | 📅 2026-09-02\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -127,13 +127,13 @@ format:
   * Key: Offline Safe RL, DT
 
 * [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,369 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Code: [official](https://github.com/reinholdm/offline-pre-trained-multi-agent-decision-transformer) ⭐ 119 | 🐛 12 | 🌐 Python | 📅 2023-04-15
   * Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, Bo Xu
   * Key: Multi-Agent RL
 
 * [Transfer learning with causal counterfactual reasoning in Decision Transformers](https://arxiv.org/abs/2110.14355)
-  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,510 | 🐛 23 | 🌐 Python | 📅 2026-09-10
+  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,511 | 🐛 23 | 🌐 Python | 📅 2026-09-10
   * Ayman Boustati, Hana Chockler, Daniel C. McNamee
   * Key: Causal reasoning, Transfer Learning
 
@@ -161,7 +161,7 @@ format:
   * Key: VLN, Transfer Learning
 
 * [Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning](https://arxiv.org/abs/2203.07413)
-  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,510 | 🐛 23 | 🌐 Python | 📅 2026-09-10
+  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,511 | 🐛 23 | 🌐 Python | 📅 2026-09-10
   * Qinjie Lin, Han Liu, Biswa Sengupta
   * Key: Multi-Task RL, Sparse Reward
 
@@ -348,7 +348,7 @@ format:
   * ExpEnv: [MiniHack](), [Procgen]()
 
 * [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,882 | 🐛 16 | 🌐 Python | 📅 2026-09-12
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,881 | 🐛 16 | 🌐 Python | 📅 2026-09-12
   * Shengchao Hu, Ziqing Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
   * Publisher: ICML 2024
   * Key: Multi-task, DT
@@ -366,7 +366,7 @@ format:
   * Key: Signal Temporal Logic (STL), DT
 
 * [Think Before You Act: Decision Transformers with Working Memory](https://openreview.net/forum?id=PSQ5Z920M8)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,882 | 🐛 16 | 🌐 Python | 📅 2026-09-12, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,881 | 🐛 16 | 🌐 Python | 📅 2026-09-12, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
   * Publisher: ICML 2024
   * Key: Working Memory, DT
@@ -386,7 +386,7 @@ format:
 ### ICLR 2024
 
 * [Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,369 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
   * Publisher: ICLR 2024
   * Key: Communication, Sequence Modeling
@@ -462,7 +462,7 @@ format:
   * Key: Offline RL, stitch trajectory, Multi-Task
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,882 | 🐛 16 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,694 | 🐛 129 | 🌐 Python | 📅 2026-09-09
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,881 | 🐛 16 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,698 | 🐛 129 | 🌐 Python | 📅 2026-09-09
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: NeurIPS 2023 (Poster)
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -535,7 +535,7 @@ format:
   * ExpEnv: None
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,882 | 🐛 16 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,694 | 🐛 129 | 🌐 Python | 📅 2026-09-09
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,881 | 🐛 16 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,698 | 🐛 129 | 🌐 Python | 📅 2026-09-09
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: ICLR 2023 Reincarnating RL workshop
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -562,7 +562,7 @@ format:
   * Key: Stochastic Environments
 
 * [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 374 | 🐛 6 | 🌐 Python | 📅 2023-03-16
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,369 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 374 | 🐛 6 | 🌐 Python | 📅 2023-03-16
   * Muning Wen, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, Yaodong Yang
   * Publisher: NeurIPS 2022
   * Key: Multi-Agent RL
@@ -619,7 +619,7 @@ format:
   * Key: Online finetuning,  Max-entropy, Exploration
 
 * [Prompting Decision Transformer for Few-Shot Policy Generalization](https://arxiv.org/abs/2206.13499)
-  * ExpEnv: [DMC](https://github.com/deepmind/dm_control) ⭐ 4,694 | 🐛 129 | 🌐 Python | 📅 2026-09-09
+  * ExpEnv: [DMC](https://github.com/deepmind/dm_control) ⭐ 4,698 | 🐛 129 | 🌐 Python | 📅 2026-09-09
   * Mengdi Xu, Yikang Shen, Shun Zhang, Yuchen Lu, Ding Zhao, Joshua B. Tenenbaum, Chuang Gan
   * Publisher:  ICML 2022 (Poster)
   * Key: Prompt, Few-shot, Generalization
@@ -641,7 +641,7 @@ format:
 ### AAAI 2022
 
 * [Dreaming with Transformers](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)
-  * ExpEnv: [Deepmind Lab](https://github.com/deepmind/lab) ⭐ 7,380 | 🐛 67 | 🌐 C | 📅 2023-01-04, [VISTA](https://github.com/vista-simulator/vista) ⭐ 409 | 🐛 18 | 🌐 Python | 📅 2023-11-20
+  * ExpEnv: [Deepmind Lab](https://github.com/deepmind/lab) ⭐ 7,379 | 🐛 67 | 🌐 C | 📅 2023-01-04, [VISTA](https://github.com/vista-simulator/vista) ⭐ 409 | 🐛 18 | 🌐 Python | 📅 2023-11-20
   * Catherine Zeng, Jordan Docter, Alexander Amini, Igor Gilitschenski, Ramin Hasani, Daniela Rus
   * Publisher: AAAI 2022 (RLG Workshop)
   * Key: Dreamer, World Model
@@ -655,7 +655,7 @@ format:
   * Key: Morphology, Transfer Learning, Zero Shot
 
 * [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
-  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,335 | 🐛 135 | 🌐 Python | 📅 2026-08-04
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,336 | 🐛 135 | 🌐 Python | 📅 2026-08-04
   * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
   * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
   * Publisher: ICLR 2022 (GPL Workshop Poster)
@@ -673,7 +673,7 @@ format:
 * [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
 
   * ExpEnv: [MuJoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [D4RL](https://github.com/rail-berkeley/d4rl) ⭐ 1,707 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Atari](https://github.com/openai/gym) ⚠️ Archived
-  * Code: [official](https://github.com/kzl/decision-transformer) ⭐ 2,834 | 🐛 37 | 🌐 Python | 📅 2024-04-29, [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py) ⭐ 3,646 | 🐛 26 | 🌐 Python | 📅 2025-12-07
+  * Code: [official](https://github.com/kzl/decision-transformer) ⭐ 2,834 | 🐛 37 | 🌐 Python | 📅 2024-04-29, [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py) ⭐ 3,645 | 🐛 26 | 🌐 Python | 📅 2025-12-07
   * Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch
   * Publisher: NeurIPS 2021 (Poster)
   * Key: Conditional sequence modeling
@@ -686,7 +686,7 @@ format:
   * Key: Conditional sequence modeling, Discretization
 
 * [TransDreamer: Reinforcement Learning with Transformer World Models](https://arxiv.org/abs/2202.09481)
-  * ExpEnv: Hidden Order Discovery, [DMC](https://github.com/deepmind/dm_control) ⭐ 4,694 | 🐛 129 | 🌐 Python | 📅 2026-09-09, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: Hidden Order Discovery, [DMC](https://github.com/deepmind/dm_control) ⭐ 4,698 | 🐛 129 | 🌐 Python | 📅 2026-09-09, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Chang Chen, Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn
   * Publisher: NeurIPS 2021 (Deep RL Workshop)
   * Key: Dreamer, World Model
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
