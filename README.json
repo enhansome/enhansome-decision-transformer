@@ -26,7 +26,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -54,7 +54,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -82,7 +82,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -138,7 +138,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -221,7 +221,7 @@
                     "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2512,
+                    "stars": 2513,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2512,
+                    "stars": 2513,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -460,7 +460,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -492,10 +492,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-12T20:38:09Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1883,
+                    "stars": 1885,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -528,7 +528,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -556,7 +556,7 @@
                     "open_issues": 3,
                     "owner": "liuzuxin",
                     "repo": "DSRL",
-                    "stars": 140,
+                    "stars": 141,
                     "topics": [
                       "benchmark",
                       "dataset",
@@ -590,10 +590,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-12T20:38:09Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1883,
+                    "stars": 1885,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -626,7 +626,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -654,7 +654,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -723,7 +723,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -751,7 +751,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -786,7 +786,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -848,7 +848,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -873,10 +873,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-12T20:38:09Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1883,
+                    "stars": 1885,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1029,7 +1029,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1707,
+                    "stars": 1706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1096,10 +1096,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-12T20:38:09Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1883,
+                    "stars": 1885,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1547,7 +1547,7 @@
                     "open_issues": 67,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7382,
+                    "stars": 7381,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 135,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3346,
+                    "stars": 3351,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:59:02.415Z",
+    "last_updated": "2026-09-22T14:07:43.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
