@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -166,7 +166,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1369,
+                    "stars": 1368,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -218,10 +218,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 23,
+                    "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2513,
+                    "stars": 2515,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -327,10 +327,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 23,
+                    "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2513,
+                    "stars": 2515,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -689,7 +689,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1369,
+                    "stars": 1368,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1256,7 +1256,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1369,
+                    "stars": 1368,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1461,7 +1461,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T18:02:42Z",
+                    "last_commit": "2026-09-22T22:01:53Z",
                     "open_issues": 130,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -1623,10 +1623,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 135,
+                    "open_issues": 138,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3351,
+                    "stars": 3353,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1759,7 +1759,7 @@
                     "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2835,
+                    "stars": 2836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1832,7 +1832,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T18:02:42Z",
+                    "last_commit": "2026-09-22T22:01:53Z",
                     "open_issues": 130,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:07:43.375Z",
+    "last_updated": "2026-09-23T14:19:53.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
