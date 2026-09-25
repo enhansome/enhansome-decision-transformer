@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,745 | 🐛 106 | 📅 2026-09-02\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,260 | 🐛 107 | 📅 2026-09-02\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -348,7 +348,7 @@ format:
   * ExpEnv: [MiniHack](), [Procgen]()
 
 * [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,886 | 🐛 17 | 🌐 Python | 📅 2026-09-12
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,887 | 🐛 17 | 🌐 Python | 📅 2026-09-12
   * Shengchao Hu, Ziqing Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
   * Publisher: ICML 2024
   * Key: Multi-task, DT
@@ -366,7 +366,7 @@ format:
   * Key: Signal Temporal Logic (STL), DT
 
 * [Think Before You Act: Decision Transformers with Working Memory](https://openreview.net/forum?id=PSQ5Z920M8)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,886 | 🐛 17 | 🌐 Python | 📅 2026-09-12, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,887 | 🐛 17 | 🌐 Python | 📅 2026-09-12, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
   * Publisher: ICML 2024
   * Key: Working Memory, DT
@@ -462,7 +462,7 @@ format:
   * Key: Offline RL, stitch trajectory, Multi-Task
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,886 | 🐛 17 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,702 | 🐛 130 | 🌐 Python | 📅 2026-09-22
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,887 | 🐛 17 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,702 | 🐛 130 | 🌐 Python | 📅 2026-09-22
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: NeurIPS 2023 (Poster)
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -535,7 +535,7 @@ format:
   * ExpEnv: None
 
 * [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
-  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,886 | 🐛 17 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,702 | 🐛 130 | 🌐 Python | 📅 2026-09-22
+  * ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,887 | 🐛 17 | 🌐 Python | 📅 2026-09-12, [DMControl](https://github.com/google-deepmind/dm_control) ⭐ 4,702 | 🐛 130 | 🌐 Python | 📅 2026-09-22
   * Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
   * Publisher: ICLR 2023 Reincarnating RL workshop
   * Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

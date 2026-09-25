@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -495,7 +495,7 @@
                     "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1886,
+                    "stars": 1887,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1886,
+                    "stars": 1887,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -876,7 +876,7 @@
                     "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1886,
+                    "stars": 1887,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1099,7 +1099,7 @@
                     "open_issues": 17,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1886,
+                    "stars": 1887,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:20:11.725Z",
+    "last_updated": "2026-09-25T14:42:51.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
