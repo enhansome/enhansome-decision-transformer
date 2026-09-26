@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37235,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37235,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 94,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1821,
+                    "stars": 1822,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 94,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1821,
+                    "stars": 1822,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 138,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3355,
+                    "stars": 3356,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1759,7 +1759,7 @@
                     "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2836,
+                    "stars": 2837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:42:51.586Z",
+    "last_updated": "2026-09-26T13:49:02.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
