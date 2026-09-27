@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1462,10 +1462,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T22:01:53Z",
-                    "open_issues": 130,
+                    "open_issues": 131,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4702,
+                    "stars": 4703,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 138,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3356,
+                    "stars": 3361,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1833,10 +1833,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T22:01:53Z",
-                    "open_issues": 130,
+                    "open_issues": 131,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4702,
+                    "stars": 4703,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:49:02.686Z",
+    "last_updated": "2026-09-27T14:47:58.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
