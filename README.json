@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -218,7 +218,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2516,
@@ -327,7 +327,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2516,
@@ -814,7 +814,7 @@
                     "open_issues": 14,
                     "owner": "mila-iqia",
                     "repo": "babyai",
-                    "stars": 768,
+                    "stars": 769,
                     "topics": [
                       "imitation-learning",
                       "nlp",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 140,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3371,
+                    "stars": 3372,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:39:14.087Z",
+    "last_updated": "2026-10-02T15:56:03.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
