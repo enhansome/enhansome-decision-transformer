@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -41,7 +41,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -69,7 +69,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -97,7 +97,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: Atari",
-                  "description": null,
+                  "description": "openai/gym",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -125,7 +125,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -153,7 +153,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: SMAC",
-                  "description": null,
+                  "description": "oxwhirl/smac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -180,7 +180,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "ReinholdM/Offline-Pre-trained-Multi-Agent-Decision-Transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -208,7 +208,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: MINIGRID",
-                  "description": null,
+                  "description": "Farama-Foundation/Minigrid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -240,7 +240,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: QAIT",
-                  "description": null,
+                  "description": "xingdi-eric-yuan/qait_public",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -289,7 +289,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "machelreid/can-wikipedia-help-offline-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -317,7 +317,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: MINIGRID",
-                  "description": null,
+                  "description": "Farama-Foundation/Minigrid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -412,7 +412,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: MuJoco",
-                  "description": null,
+                  "description": "openai/mujoco-py",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -482,7 +482,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: MetaWorld",
-                  "description": null,
+                  "description": "Farama-Foundation/Metaworld",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -515,7 +515,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -543,7 +543,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: DSRL",
-                  "description": null,
+                  "description": "liuzuxin/DSRL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -613,7 +613,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -641,7 +641,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -676,7 +676,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: SMAC",
-                  "description": null,
+                  "description": "oxwhirl/smac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -738,7 +738,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -773,7 +773,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -801,7 +801,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: BabyAI",
-                  "description": null,
+                  "description": "mila-iqia/babyai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -835,7 +835,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -903,7 +903,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: Unofficial",
-                  "description": null,
+                  "description": "lucidrains/q-transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -981,7 +981,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: Bullet-Safety-Gym",
-                  "description": null,
+                  "description": "SvenGronauer/Bullet-Safety-Gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1016,7 +1016,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: D4RL",
-                  "description": null,
+                  "description": "Farama-Foundation/D4RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1140,7 +1140,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "hukz18/DeFog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1207,7 +1207,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: Gambling, Connect Four, 2048",
-                  "description": null,
+                  "description": "FelipeMarcelino/2048-Gym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1340,7 +1340,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: RLBench",
-                  "description": null,
+                  "description": "stepjam/RLBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1353,7 +1353,7 @@
                     "open_issues": 94,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1823,
+                    "stars": 1824,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1368,7 +1368,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: RLBench",
-                  "description": null,
+                  "description": "stepjam/RLBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1381,7 +1381,7 @@
                     "open_issues": 94,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1823,
+                    "stars": 1824,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1424,7 +1424,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: unofficial",
-                  "description": null,
+                  "description": "daniellawson9999/online-decision-transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1452,7 +1452,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: DMC",
-                  "description": null,
+                  "description": "google-deepmind/dm_control",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1488,7 +1488,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: Modular-RL",
-                  "description": null,
+                  "description": "huangwl18/modular-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1574,7 +1574,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: Modular-RL",
-                  "description": null,
+                  "description": "huangwl18/modular-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1613,7 +1613,7 @@
                 {
                   "node_type": "item",
                   "title": "ExpEnv: ManiSkill",
-                  "description": null,
+                  "description": "mani-skill/ManiSkill",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1641,7 +1641,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "caiqi/Silver-Bullet-3D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1690,7 +1690,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "frt03/generalized_dt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1795,7 +1795,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "jannerm/trajectory-transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1887,7 +1887,7 @@
                 {
                   "node_type": "item",
                   "title": "Code: official",
-                  "description": null,
+                  "description": "jannerm/trajectory-transformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:56:03.424Z",
+    "last_updated": "2026-10-03T04:41:34.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",

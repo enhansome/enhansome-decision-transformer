@@ -1,10 +1,10 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,593 | 🐛 106 | 📅 2026-09-02\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
-[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE) ⭐ 917 | 🐛 2 | 📅 2026-05-21
+[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE)
 
 This is a collection of research papers for **Decision Transformer (DT)**.
 And the repository will be continuously updated to track the frontier of DT.
@@ -596,14 +596,14 @@ format:
   * ExpEnv: [RECON](https://sites.google.com/view/recon-robot/)
 
 * [Instruction-driven history-aware policies for robotic manipulations](https://arxiv.org/abs/2209.04899)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,823 | 🐛 94 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,824 | 🐛 94 | 🌐 Python | 📅 2025-01-25
   * Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid
   * Publisher:  CoRL 2022 (Oral)
   * Key: Robotics, Language Instruction
   * Code: [official](https://guhur.github.io/hiveformer/)
 
 * [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,823 | 🐛 94 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,824 | 🐛 94 | 🌐 Python | 📅 2025-01-25
   * Mohit Shridhar, Lucas Manuelli, Dieter Fox
   * Publisher:  CoRL 2022
   * Key: Robotics,  Language Grounding, Behavior Cloning
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
