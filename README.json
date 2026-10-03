@@ -1462,7 +1462,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T22:01:53Z",
-                    "open_issues": 137,
+                    "open_issues": 139,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4707,
@@ -1626,7 +1626,7 @@
                     "open_issues": 140,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3372,
+                    "stars": 3373,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1833,7 +1833,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T22:01:53Z",
-                    "open_issues": 137,
+                    "open_issues": 139,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4707,
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:34.301Z",
+    "last_updated": "2026-10-03T14:23:40.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
