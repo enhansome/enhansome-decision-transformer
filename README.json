@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37240,
+                    "stars": 37241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -166,7 +166,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1368,
+                    "stars": 1369,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -689,7 +689,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1368,
+                    "stars": 1369,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1256,7 +1256,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1368,
+                    "stars": 1369,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37240,
+                    "stars": 37241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 140,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3373,
+                    "stars": 3374,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1759,7 +1759,7 @@
                     "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2838,
+                    "stars": 2839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:23:40.389Z",
+    "last_updated": "2026-10-04T14:56:10.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
