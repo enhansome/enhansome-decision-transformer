@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37242,
+                    "stars": 37246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -218,7 +218,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2517,
@@ -281,7 +281,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -327,7 +327,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T21:44:25Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2517,
@@ -397,7 +397,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -425,7 +425,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -495,7 +495,7 @@
                     "open_issues": 18,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 18,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -876,7 +876,7 @@
                     "open_issues": 18,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -959,7 +959,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1099,7 +1099,7 @@
                     "open_issues": 18,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1132,7 +1132,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1192,7 +1192,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1290,7 +1290,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37242,
+                    "stars": 37246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1416,7 +1416,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1461,7 +1461,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T18:39:41Z",
+                    "last_commit": "2026-10-05T20:05:04Z",
                     "open_issues": 139,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -1626,7 +1626,7 @@
                     "open_issues": 141,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3377,
+                    "stars": 3379,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1682,7 +1682,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1738,7 +1738,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1832,7 +1832,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T18:39:41Z",
+                    "last_commit": "2026-10-05T20:05:04Z",
                     "open_issues": 139,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -1879,7 +1879,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3145,
+                    "stars": 3146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:45:19.246Z",
+    "last_updated": "2026-10-06T11:03:00.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
