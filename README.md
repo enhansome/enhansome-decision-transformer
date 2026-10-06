@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,371 | 🐛 106 | 📅 2026-09-02\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,515 | 🐛 106 | 📅 2026-09-02\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -133,7 +133,7 @@ format:
   * Key: Multi-Agent RL
 
 * [Transfer learning with causal counterfactual reasoning in Decision Transformers](https://arxiv.org/abs/2110.14355)
-  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,517 | 🐛 27 | 🌐 Python | 📅 2026-09-10
+  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,517 | 🐛 28 | 🌐 Python | 📅 2026-09-10
   * Ayman Boustati, Hana Chockler, Daniel C. McNamee
   * Key: Causal reasoning, Transfer Learning
 
@@ -161,7 +161,7 @@ format:
   * Key: VLN, Transfer Learning
 
 * [Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning](https://arxiv.org/abs/2203.07413)
-  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,517 | 🐛 27 | 🌐 Python | 📅 2026-09-10
+  * ExpEnv: [MINIGRID](https://github.com/Farama-Foundation/gym-minigrid) ⭐ 2,517 | 🐛 28 | 🌐 Python | 📅 2026-09-10
   * Qinjie Lin, Han Liu, Biswa Sengupta
   * Key: Multi-Task RL, Sparse Reward
 
