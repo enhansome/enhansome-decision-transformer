@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37249,
+                    "stars": 37247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -217,11 +217,11 @@
                     "id": 114143182,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T10:31:47Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-10T04:49:38Z",
+                    "open_issues": 27,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2519,
+                    "stars": 2520,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -281,7 +281,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -326,11 +326,11 @@
                     "id": 114143182,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T10:31:47Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-10T04:49:38Z",
+                    "open_issues": 27,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2519,
+                    "stars": 2520,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -397,7 +397,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -425,7 +425,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -492,7 +492,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 17,
+                    "open_issues": 19,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1890,
@@ -590,7 +590,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 17,
+                    "open_issues": 19,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1890,
@@ -873,7 +873,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 17,
+                    "open_issues": 19,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1890,
@@ -959,7 +959,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1096,7 +1096,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 17,
+                    "open_issues": 19,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1890,
@@ -1132,7 +1132,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1192,7 +1192,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1290,7 +1290,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37249,
+                    "stars": 37247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 94,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1827,
+                    "stars": 1826,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 94,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1827,
+                    "stars": 1826,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1416,7 +1416,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 142,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3386,
+                    "stars": 3388,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1682,7 +1682,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1738,7 +1738,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1879,7 +1879,7 @@
                     "open_issues": 427,
                     "owner": "openai",
                     "repo": "mujoco-py",
-                    "stars": 3148,
+                    "stars": 3149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:28:00.913Z",
+    "last_updated": "2026-10-10T15:31:35.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
