@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37244,
+                    "stars": 37243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -166,7 +166,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1370,
+                    "stars": 1371,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -492,10 +492,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 19,
+                    "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1891,
+                    "stars": 1893,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -590,10 +590,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 19,
+                    "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1891,
+                    "stars": 1893,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -689,7 +689,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1370,
+                    "stars": 1371,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -873,10 +873,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 19,
+                    "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1891,
+                    "stars": 1893,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1096,10 +1096,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 19,
+                    "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1891,
+                    "stars": 1893,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1256,7 +1256,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1370,
+                    "stars": 1371,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37244,
+                    "stars": 37243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1547,7 +1547,7 @@
                     "open_issues": 67,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7387,
+                    "stars": 7386,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1623,10 +1623,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 142,
+                    "open_issues": 143,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3400,
+                    "stars": 3407,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:14:30.059Z",
+    "last_updated": "2026-10-13T17:04:33.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
