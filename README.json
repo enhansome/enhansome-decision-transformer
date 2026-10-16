@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37241,
+                    "stars": 37242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -217,11 +217,11 @@
                     "id": 114143182,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-10T22:26:38Z",
+                    "last_commit": "2026-10-15T21:58:24Z",
                     "open_issues": 28,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2525,
+                    "stars": 2526,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -326,11 +326,11 @@
                     "id": 114143182,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-10T22:26:38Z",
+                    "last_commit": "2026-10-15T21:58:24Z",
                     "open_issues": 28,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2525,
+                    "stars": 2526,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -495,7 +495,7 @@
                     "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -876,7 +876,7 @@
                     "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1099,7 +1099,7 @@
                     "open_issues": 21,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37241,
+                    "stars": 37242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1623,10 +1623,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 144,
+                    "open_issues": 145,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3421,
+                    "stars": 3424,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1759,7 +1759,7 @@
                     "open_issues": 37,
                     "owner": "kzl",
                     "repo": "decision-transformer",
-                    "stars": 2842,
+                    "stars": 2841,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:19:05.536Z",
+    "last_updated": "2026-10-16T14:08:06.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
@@ -1929,7 +1929,7 @@
       "open_issues": 2,
       "owner": "opendilab",
       "repo": "awesome-decision-transformer",
-      "stars": 919,
+      "stars": 918,
       "topics": [
         "awesome",
         "awesome-list",
