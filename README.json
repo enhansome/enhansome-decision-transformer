@@ -221,7 +221,7 @@
                     "open_issues": 28,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2526,
+                    "stars": 2527,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 28,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2526,
+                    "stars": 2527,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -1465,7 +1465,7 @@
                     "open_issues": 144,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4710,
+                    "stars": 4712,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 145,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3424,
+                    "stars": 3426,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1836,7 +1836,7 @@
                     "open_issues": 144,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4710,
+                    "stars": 4712,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:08:06.365Z",
+    "last_updated": "2026-10-17T13:06:24.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
