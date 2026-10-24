@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37235,
+                    "stars": 37234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -166,7 +166,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1371,
+                    "stars": 1372,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -221,7 +221,7 @@
                     "open_issues": 32,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2528,
+                    "stars": 2530,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 32,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2528,
+                    "stars": 2530,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -495,7 +495,7 @@
                     "open_issues": 22,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1899,
+                    "stars": 1901,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 22,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1899,
+                    "stars": 1901,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -689,7 +689,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1371,
+                    "stars": 1372,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -876,7 +876,7 @@
                     "open_issues": 22,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1899,
+                    "stars": 1901,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1099,7 +1099,7 @@
                     "open_issues": 22,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1899,
+                    "stars": 1901,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1256,7 +1256,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1371,
+                    "stars": 1372,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37235,
+                    "stars": 37234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1547,7 +1547,7 @@
                     "open_issues": 68,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7392,
+                    "stars": 7389,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1623,10 +1623,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-04T16:38:18Z",
-                    "open_issues": 166,
+                    "open_issues": 167,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3460,
+                    "stars": 3462,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:20:49.255Z",
+    "last_updated": "2026-10-24T13:30:02.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
