@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37237,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -218,7 +218,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T21:58:24Z",
-                    "open_issues": 32,
+                    "open_issues": 33,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2533,
@@ -327,7 +327,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T21:58:24Z",
-                    "open_issues": 32,
+                    "open_issues": 33,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2533,
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37237,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1465,7 +1465,7 @@
                     "open_issues": 145,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4716,
+                    "stars": 4717,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1547,7 +1547,7 @@
                     "open_issues": 68,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7390,
+                    "stars": 7391,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 167,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3464,
+                    "stars": 3470,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1836,7 +1836,7 @@
                     "open_issues": 145,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4716,
+                    "stars": 4717,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:16:14.281Z",
+    "last_updated": "2026-10-27T15:29:55.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
