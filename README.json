@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37235,
+                    "stars": 37233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -492,7 +492,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1903,
@@ -590,7 +590,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1903,
@@ -873,7 +873,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1903,
@@ -1096,7 +1096,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T08:59:56Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1903,
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37235,
+                    "stars": 37233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1834,
+                    "stars": 1835,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1834,
+                    "stars": 1835,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1461,7 +1461,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T00:30:20Z",
+                    "last_commit": "2026-10-29T14:18:16Z",
                     "open_issues": 145,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -1547,7 +1547,7 @@
                     "open_issues": 68,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7391,
+                    "stars": 7390,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 167,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3472,
+                    "stars": 3478,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1832,7 +1832,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T00:30:20Z",
+                    "last_commit": "2026-10-29T14:18:16Z",
                     "open_issues": 145,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:13:02.021Z",
+    "last_updated": "2026-10-29T16:21:55.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
