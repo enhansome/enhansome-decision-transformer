@@ -218,7 +218,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T21:58:24Z",
-                    "open_issues": 33,
+                    "open_issues": 34,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2534,
@@ -327,7 +327,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T21:58:24Z",
-                    "open_issues": 33,
+                    "open_issues": 34,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
                     "stars": 2534,
@@ -1547,7 +1547,7 @@
                     "open_issues": 68,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7390,
+                    "stars": 7393,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 167,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3477,
+                    "stars": 3478,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:28:18.603Z",
+    "last_updated": "2026-11-01T16:15:09.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
