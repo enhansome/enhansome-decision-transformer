@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37231,
+                    "stars": 37232,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -814,7 +814,7 @@
                     "open_issues": 15,
                     "owner": "mila-iqia",
                     "repo": "babyai",
-                    "stars": 771,
+                    "stars": 772,
                     "topics": [
                       "imitation-learning",
                       "nlp",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37231,
+                    "stars": 37232,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 167,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3484,
+                    "stars": 3487,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:25:37.803Z",
+    "last_updated": "2026-11-05T17:34:41.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
@@ -1929,7 +1929,7 @@
       "open_issues": 2,
       "owner": "opendilab",
       "repo": "awesome-decision-transformer",
-      "stars": 920,
+      "stars": 921,
       "topics": [
         "awesome",
         "awesome-list",
