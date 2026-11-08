@@ -217,11 +217,11 @@
                     "id": 114143182,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-03T08:57:12Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-11-08T13:08:05Z",
+                    "open_issues": 41,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2539,
+                    "stars": 2541,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -326,11 +326,11 @@
                     "id": 114143182,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-03T08:57:12Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-11-08T13:08:05Z",
+                    "open_issues": 41,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2539,
+                    "stars": 2541,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:50:50.076Z",
+    "last_updated": "2026-11-08T16:12:48.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
