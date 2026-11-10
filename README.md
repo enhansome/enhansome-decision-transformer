@@ -1,6 +1,6 @@
 # Awesome Decision Transformer with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,187 | 🐛 103 | 📅 2026-09-02\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,702 | 🐛 103 | 📅 2026-09-02\
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer\&left_text=Visitors)
 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)
@@ -127,7 +127,7 @@ format:
   * Key: Offline Safe RL, DT
 
 * [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,377 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,378 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Code: [official](https://github.com/reinholdm/offline-pre-trained-multi-agent-decision-transformer) ⭐ 119 | 🐛 12 | 🌐 Python | 📅 2023-04-15
   * Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, Bo Xu
   * Key: Multi-Agent RL
@@ -386,7 +386,7 @@ format:
 ### ICLR 2024
 
 * [Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,377 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,378 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
   * Publisher: ICLR 2024
   * Key: Communication, Sequence Modeling
@@ -562,7 +562,7 @@ format:
   * Key: Stochastic Environments
 
 * [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)
-  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,377 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 375 | 🐛 6 | 🌐 Python | 📅 2023-03-16
+  * ExpEnv: [SMAC](https://github.com/oxwhirl/smac) ⭐ 1,378 | 🐛 22 | 🌐 Python | 📅 2024-02-18, [MA MuJoco](https://github.com/schroederdewitt/multiagent_mujoco) ⭐ 375 | 🐛 6 | 🌐 Python | 📅 2023-03-16
   * Muning Wen, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, Yaodong Yang
   * Publisher: NeurIPS 2022
   * Key: Multi-Agent RL
@@ -596,14 +596,14 @@ format:
   * ExpEnv: [RECON](https://sites.google.com/view/recon-robot/)
 
 * [Instruction-driven history-aware policies for robotic manipulations](https://arxiv.org/abs/2209.04899)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,838 | 🐛 96 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,837 | 🐛 96 | 🌐 Python | 📅 2025-01-25
   * Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid
   * Publisher:  CoRL 2022 (Oral)
   * Key: Robotics, Language Instruction
   * Code: [official](https://guhur.github.io/hiveformer/)
 
 * [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
-  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,838 | 🐛 96 | 🌐 Python | 📅 2025-01-25
+  * ExpEnv: [RLBench](https://github.com/stepjam/RLBench/) ⭐ 1,837 | 🐛 96 | 🌐 Python | 📅 2025-01-25
   * Mohit Shridhar, Lucas Manuelli, Dieter Fox
   * Publisher:  CoRL 2022
   * Key: Robotics,  Language Grounding, Behavior Cloning
@@ -655,7 +655,7 @@ format:
   * Key: Morphology, Transfer Learning, Zero Shot
 
 * [Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation](https://arxiv.org/abs/2206.06289)
-  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,501 | 🐛 167 | 🌐 Python | 📅 2026-08-04
+  * ExpEnv: [ManiSkill](https://github.com/haosulab/ManiSkill) ⭐ 3,504 | 🐛 167 | 🌐 Python | 📅 2026-08-04
   * Code: [official](https://github.com/caiqi/Silver-Bullet-3D/) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-01-19
   * Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
   * Publisher: ICLR 2022 (GPL Workshop Poster)
@@ -710,4 +710,4 @@ Awesome Decision Transformer is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

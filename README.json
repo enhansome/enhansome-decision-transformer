@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37234,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -166,7 +166,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1377,
+                    "stars": 1378,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -689,7 +689,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1377,
+                    "stars": 1378,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1256,7 +1256,7 @@
                     "open_issues": 22,
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1377,
+                    "stars": 1378,
                     "topics": [
                       "benchmark",
                       "machine-learning",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37234,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1838,
+                    "stars": 1837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1838,
+                    "stars": 1837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 167,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3501,
+                    "stars": 3504,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:57:47.439Z",
+    "last_updated": "2026-11-10T17:13:13.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
