@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239,
+                    "stars": 37240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -495,7 +495,7 @@
                     "open_issues": 24,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1909,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 24,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1909,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -876,7 +876,7 @@
                     "open_issues": 24,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1909,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1099,7 +1099,7 @@
                     "open_issues": 24,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1909,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239,
+                    "stars": 37240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1838,
+                    "stars": 1839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1838,
+                    "stars": 1839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1465,7 +1465,7 @@
                     "open_issues": 149,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4727,
+                    "stars": 4726,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 170,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3521,
+                    "stars": 3523,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1808,7 +1808,7 @@
                     "open_issues": 8,
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
-                    "stars": 538,
+                    "stars": 539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1836,7 +1836,7 @@
                     "open_issues": 149,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4727,
+                    "stars": 4726,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1900,7 +1900,7 @@
                     "open_issues": 8,
                     "owner": "jannerm",
                     "repo": "trajectory-transformer",
-                    "stars": 538,
+                    "stars": 539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:46:37.474Z",
+    "last_updated": "2026-11-17T18:43:01.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
