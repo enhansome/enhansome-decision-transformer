@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37240,
+                    "stars": 37238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -221,7 +221,7 @@
                     "open_issues": 37,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2543,
+                    "stars": 2544,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 37,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2543,
+                    "stars": 2544,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37240,
+                    "stars": 37238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1839,
+                    "stars": 1840,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1381,7 +1381,7 @@
                     "open_issues": 96,
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1839,
+                    "stars": 1840,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1462,7 +1462,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T17:00:44Z",
-                    "open_issues": 149,
+                    "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4726,
@@ -1626,7 +1626,7 @@
                     "open_issues": 170,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3523,
+                    "stars": 3527,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1833,7 +1833,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T17:00:44Z",
-                    "open_issues": 149,
+                    "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4726,
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:43:01.714Z",
+    "last_updated": "2026-11-18T18:18:44.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
