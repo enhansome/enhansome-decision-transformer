@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37238,
+                    "stars": 37237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -492,7 +492,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-12T07:53:52Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1908,
@@ -590,7 +590,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-12T07:53:52Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1908,
@@ -873,7 +873,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-12T07:53:52Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1908,
@@ -1096,7 +1096,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-12T07:53:52Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
                     "stars": 1908,
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37238,
+                    "stars": 37237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 170,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3527,
+                    "stars": 3530,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:18:44.315Z",
+    "last_updated": "2026-11-19T18:31:11.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
