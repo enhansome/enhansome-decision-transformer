@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -221,7 +221,7 @@
                     "open_issues": 37,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2544,
+                    "stars": 2543,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 37,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2544,
+                    "stars": 2543,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37236,
+                    "stars": 37237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1626,7 +1626,7 @@
                     "open_issues": 170,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3529,
+                    "stars": 3533,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:56:18.734Z",
+    "last_updated": "2026-11-21T16:54:14.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
