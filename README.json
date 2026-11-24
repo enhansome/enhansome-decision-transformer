@@ -495,7 +495,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1907,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1907,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -876,7 +876,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1907,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1099,7 +1099,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1907,
+                    "stars": 1908,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1465,7 +1465,7 @@
                     "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4730,
+                    "stars": 4731,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 172,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3540,
+                    "stars": 3543,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1836,7 +1836,7 @@
                     "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4730,
+                    "stars": 4731,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:37:09.541Z",
+    "last_updated": "2026-11-24T20:17:09.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
