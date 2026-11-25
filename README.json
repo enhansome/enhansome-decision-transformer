@@ -110,7 +110,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37234,
+                    "stars": 37235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -221,7 +221,7 @@
                     "open_issues": 37,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2544,
+                    "stars": 2546,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -330,7 +330,7 @@
                     "open_issues": 37,
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2544,
+                    "stars": 2546,
                     "topics": [
                       "gridworld-environment",
                       "gymnasium",
@@ -495,7 +495,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1908,
+                    "stars": 1910,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -593,7 +593,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1908,
+                    "stars": 1910,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -814,7 +814,7 @@
                     "open_issues": 15,
                     "owner": "mila-iqia",
                     "repo": "babyai",
-                    "stars": 773,
+                    "stars": 774,
                     "topics": [
                       "imitation-learning",
                       "nlp",
@@ -876,7 +876,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1908,
+                    "stars": 1910,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1099,7 +1099,7 @@
                     "open_issues": 25,
                     "owner": "Farama-Foundation",
                     "repo": "Metaworld",
-                    "stars": 1908,
+                    "stars": 1910,
                     "topics": [
                       "benchmark-environments",
                       "meta-rl",
@@ -1318,7 +1318,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37234,
+                    "stars": 37235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:31.808Z"
@@ -1465,7 +1465,7 @@
                     "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4731,
+                    "stars": 4732,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1547,7 +1547,7 @@
                     "open_issues": 69,
                     "owner": "google-deepmind",
                     "repo": "lab",
-                    "stars": 7395,
+                    "stars": 7394,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1626,7 +1626,7 @@
                     "open_issues": 172,
                     "owner": "mani-skill",
                     "repo": "ManiSkill",
-                    "stars": 3543,
+                    "stars": 3550,
                     "topics": [
                       "embodied-ai",
                       "reinforcement-learning",
@@ -1836,7 +1836,7 @@
                     "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4731,
+                    "stars": 4732,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:17:09.347Z",
+    "last_updated": "2026-11-25T19:31:00.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Decision Transformer resources (continually updated)",
